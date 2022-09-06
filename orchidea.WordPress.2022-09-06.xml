@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.0.2" created="2022-09-06 15:12" -->
+	<!-- generator="WordPress/6.0.2" created="2022-09-06 17:36" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -26,10 +26,11 @@
 >
 
 <channel>
+
 	<title>Orchidea</title>
 	<link>http://localhost/orchidea/wordpress</link>
 	<description>Un nuovo sito targato WordPress</description>
-	<pubDate>Tue, 06 Sep 2022 15:12:56 +0000</pubDate>
+	<pubDate>Tue, 06 Sep 2022 17:36:14 +0000</pubDate>
 	<language>it-IT</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>http://localhost/orchidea/wordpress</wp:base_site_url>
@@ -56,44 +57,7 @@
 	<generator>https://wordpress.org/?v=6.0.2</generator>
 
 		<item>
-		<title><![CDATA[orchid_flowerpot_flower_plant_icon_182759]]></title>
-		<link>http://localhost/orchidea/wordpress/orchid_flowerpot_flower_plant_icon_182759/</link>
-		<pubDate>Tue, 30 Aug 2022 15:49:05 +0000</pubDate>
-		<dc:creator><![CDATA[fulvia]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/orchidea/wordpress/wp-content/uploads/2022/08/orchid_flowerpot_flower_plant_icon_182759.png</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>6</wp:post_id>
-		<wp:post_date><![CDATA[2022-08-30 17:49:05]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2022-08-30 15:49:05]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-08-30 18:27:28]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-08-30 16:27:28]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[orchid_flowerpot_flower_plant_icon_182759]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://localhost/orchidea/wordpress/wp-content/uploads/2022/08/orchid_flowerpot_flower_plant_icon_182759.png]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2022/08/orchid_flowerpot_flower_plant_icon_182759.png]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:512;s:6:"height";i:512;s:4:"file";s:53:"2022/08/orchid_flowerpot_flower_plant_icon_182759.png";s:8:"filesize";i:9474;s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_image_alt]]></wp:meta_key>
-		<wp:meta_value><![CDATA[orchidea]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[logo-orchidea]]></title>
+		<title><![CDATA[orchidea, salon, bellezza, pelle, viso, capelli]]></title>
 		<link>http://localhost/orchidea/wordpress/logo-orchidea/</link>
 		<pubDate>Tue, 30 Aug 2022 15:56:58 +0000</pubDate>
 		<dc:creator><![CDATA[fulvia]]></dc:creator>
@@ -104,8 +68,8 @@
 		<wp:post_id>7</wp:post_id>
 		<wp:post_date><![CDATA[2022-08-30 17:56:58]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2022-08-30 15:56:58]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-08-30 17:59:39]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-08-30 15:59:39]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-09-06 19:30:18]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-09-06 17:30:18]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[logo-orchidea]]></wp:post_name>
@@ -126,11 +90,19 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_image_alt]]></wp:meta_key>
-		<wp:meta_value><![CDATA[orchidea]]></wp:meta_value>
+		<wp:meta_value><![CDATA[orchidea, salon, bellezza, pelle, viso, capelli]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[wp-smush-lossy]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[wp-smpro-smush-data]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:2:{s:5:"stats";a:8:{s:7:"percent";d:81.09512082499614;s:5:"bytes";i:252900;s:11:"size_before";i:311856;s:10:"size_after";i:58956;s:4:"time";d:0.53;s:11:"api_version";s:3:"1.0";s:5:"lossy";b:1;s:9:"keep_exif";i:0;}s:5:"sizes";a:1:{s:4:"full";O:8:"stdClass":5:{s:7:"percent";d:81.1;s:5:"bytes";i:252900;s:11:"size_before";i:311856;s:10:"size_after";i:58956;s:4:"time";d:0.53;}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[haircut-hair-cut-beauty-salon-834280]]></title>
+		<title><![CDATA[orchidea, salon, bellezza, pelle, viso, capelli]]></title>
 		<link>http://localhost/orchidea/wordpress/haircut-hair-cut-beauty-salon-834280/</link>
 		<pubDate>Tue, 30 Aug 2022 18:58:12 +0000</pubDate>
 		<dc:creator><![CDATA[fulvia]]></dc:creator>
@@ -141,8 +113,8 @@
 		<wp:post_id>76</wp:post_id>
 		<wp:post_date><![CDATA[2022-08-30 20:58:12]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2022-08-30 18:58:12]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-08-30 20:58:12]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-08-30 18:58:12]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-09-06 19:30:06]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-09-06 17:30:06]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[haircut-hair-cut-beauty-salon-834280]]></wp:post_name>
@@ -171,56 +143,19 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_image_alt]]></wp:meta_key>
-		<wp:meta_value><![CDATA[haircut, hair cut, beauty salon-834280.jpg]]></wp:meta_value>
+		<wp:meta_value><![CDATA[taglio, capelli]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[wp-smush-lossy]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[wp-smpro-smush-data]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:2:{s:5:"stats";a:8:{s:7:"percent";d:4.983880690902419;s:5:"bytes";i:3803;s:11:"size_before";i:76306;s:10:"size_after";i:72503;s:4:"time";d:0.32;s:11:"api_version";s:3:"1.0";s:5:"lossy";b:1;s:9:"keep_exif";i:0;}s:5:"sizes";a:1:{s:4:"full";O:8:"stdClass":5:{s:7:"percent";d:4.98;s:5:"bytes";i:3803;s:11:"size_before";i:76306;s:10:"size_after";i:72503;s:4:"time";d:0.32;}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[massage-spa-stones-5578598]]></title>
-		<link>http://localhost/orchidea/wordpress/massage-spa-stones-5578598/</link>
-		<pubDate>Tue, 30 Aug 2022 19:04:43 +0000</pubDate>
-		<dc:creator><![CDATA[fulvia]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/orchidea/wordpress/wp-content/uploads/2022/08/massage-spa-stones-5578598.jpg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>77</wp:post_id>
-		<wp:post_date><![CDATA[2022-08-30 21:04:43]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2022-08-30 19:04:43]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-08-30 21:04:43]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-08-30 19:04:43]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[massage-spa-stones-5578598]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://localhost/orchidea/wordpress/wp-content/uploads/2022/08/massage-spa-stones-5578598.jpg]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2022/08/massage-spa-stones-5578598.jpg]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:853;s:4:"file";s:38:"2022/08/massage-spa-stones-5578598.jpg";s:8:"filesize";i:60636;s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_source_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://pixabay.com/get/g14edebcc325034cf1499bb75edb2cddd9ea87b689b607a09ecacc1196b070b3c19488e18b1099c695dee3fefe7d01c1378f8c597a264c72777959f661d87d0b5_1280.jpg]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[astra-images]]></wp:meta_key>
-		<wp:meta_value><![CDATA[5578598]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_image_alt]]></wp:meta_key>
-		<wp:meta_value><![CDATA[massage, spa, stones-5578598.jpg]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[towel-hibiscus-clean-2608073]]></title>
+		<title><![CDATA[orchidea, salon, bellezza, pelle, viso, capelli]]></title>
 		<link>http://localhost/orchidea/wordpress/towel-hibiscus-clean-2608073/</link>
 		<pubDate>Tue, 30 Aug 2022 19:08:48 +0000</pubDate>
 		<dc:creator><![CDATA[fulvia]]></dc:creator>
@@ -231,8 +166,8 @@
 		<wp:post_id>78</wp:post_id>
 		<wp:post_date><![CDATA[2022-08-30 21:08:48]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2022-08-30 19:08:48]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-08-30 21:08:48]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-08-30 19:08:48]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-09-06 19:29:43]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-09-06 17:29:43]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[towel-hibiscus-clean-2608073]]></wp:post_name>
@@ -261,11 +196,19 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_image_alt]]></wp:meta_key>
-		<wp:meta_value><![CDATA[towel, hibiscus, clean-2608073.jpg]]></wp:meta_value>
+		<wp:meta_value><![CDATA[orchidea, salon, bellezza, pelle, viso, capelli]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[wp-smush-lossy]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[wp-smpro-smush-data]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:2:{s:5:"stats";a:8:{s:7:"percent";d:1.8933850732525446;s:5:"bytes";i:2303;s:11:"size_before";i:121634;s:10:"size_after";i:119331;s:4:"time";d:0.17;s:11:"api_version";s:3:"1.0";s:5:"lossy";b:1;s:9:"keep_exif";i:0;}s:5:"sizes";a:1:{s:4:"full";O:8:"stdClass":5:{s:7:"percent";d:1.89;s:5:"bytes";i:2303;s:11:"size_before";i:121634;s:10:"size_after";i:119331;s:4:"time";d:0.17;}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[wellness-carafe-towels-3793416]]></title>
+		<title><![CDATA[orchidea, salon, bellezza, pelle, viso, capelli]]></title>
 		<link>http://localhost/orchidea/wordpress/wellness-carafe-towels-3793416/</link>
 		<pubDate>Tue, 30 Aug 2022 19:13:44 +0000</pubDate>
 		<dc:creator><![CDATA[fulvia]]></dc:creator>
@@ -276,8 +219,8 @@
 		<wp:post_id>79</wp:post_id>
 		<wp:post_date><![CDATA[2022-08-30 21:13:44]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2022-08-30 19:13:44]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-08-30 21:13:44]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-08-30 19:13:44]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-09-06 19:29:33]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-09-06 17:29:33]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[wellness-carafe-towels-3793416]]></wp:post_name>
@@ -306,11 +249,19 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_image_alt]]></wp:meta_key>
-		<wp:meta_value><![CDATA[wellness, carafe, towels-3793416.jpg]]></wp:meta_value>
+		<wp:meta_value><![CDATA[orchidea, salon, bellezza, pelle, viso, capelli]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[wp-smush-lossy]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[wp-smpro-smush-data]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:2:{s:5:"stats";a:8:{s:7:"percent";d:39.55783295573768;s:5:"bytes";i:104064;s:11:"size_before";i:263068;s:10:"size_after";i:159004;s:4:"time";d:0.32;s:11:"api_version";s:3:"1.0";s:5:"lossy";b:1;s:9:"keep_exif";i:0;}s:5:"sizes";a:1:{s:4:"full";O:8:"stdClass":5:{s:7:"percent";d:39.56;s:5:"bytes";i:104064;s:11:"size_before";i:263068;s:10:"size_after";i:159004;s:4:"time";d:0.32;}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[Orchidea]]></title>
+		<title><![CDATA[orchidea, salon, bellezza, pelle, viso, capelli]]></title>
 		<link>http://localhost/orchidea/wordpress/orchidea/</link>
 		<pubDate>Wed, 31 Aug 2022 10:31:25 +0000</pubDate>
 		<dc:creator><![CDATA[fulvia]]></dc:creator>
@@ -321,8 +272,8 @@
 		<wp:post_id>93</wp:post_id>
 		<wp:post_date><![CDATA[2022-08-31 12:31:25]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2022-08-31 10:31:25]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-08-31 12:31:25]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-08-31 10:31:25]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-09-06 19:29:22]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-09-06 17:29:22]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[orchidea]]></wp:post_name>
@@ -341,9 +292,21 @@
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:500;s:6:"height";i:500;s:4:"file";s:20:"2022/08/Orchidea.png";s:8:"filesize";i:41292;s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[wp-smush-lossy]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[wp-smpro-smush-data]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:2:{s:5:"stats";a:8:{s:7:"percent";d:77.73902935193257;s:5:"bytes";i:32100;s:11:"size_before";i:41292;s:10:"size_after";i:9192;s:4:"time";d:0.16;s:11:"api_version";s:3:"1.0";s:5:"lossy";b:1;s:9:"keep_exif";i:0;}s:5:"sizes";a:1:{s:4:"full";O:8:"stdClass":5:{s:7:"percent";d:77.74;s:5:"bytes";i:32100;s:11:"size_before";i:41292;s:10:"size_after";i:9192;s:4:"time";d:0.16;}}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_image_alt]]></wp:meta_key>
+		<wp:meta_value><![CDATA[orchidea, salon, bellezza, pelle, viso, capelli]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[Orchidea1]]></title>
+		<title><![CDATA[orchidea, salon, bellezza, pelle, viso, capelli]]></title>
 		<link>http://localhost/orchidea/wordpress/orchidea1/</link>
 		<pubDate>Wed, 31 Aug 2022 10:43:53 +0000</pubDate>
 		<dc:creator><![CDATA[fulvia]]></dc:creator>
@@ -354,8 +317,8 @@
 		<wp:post_id>99</wp:post_id>
 		<wp:post_date><![CDATA[2022-08-31 12:43:53]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2022-08-31 10:43:53]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-08-31 12:43:53]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-08-31 10:43:53]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-09-06 19:29:10]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-09-06 17:29:10]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[orchidea1]]></wp:post_name>
@@ -374,54 +337,21 @@
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:497;s:6:"height";i:186;s:4:"file";s:21:"2022/08/Orchidea1.png";s:8:"filesize";i:40590;s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[spa-woman-facial-4481538]]></title>
-		<link>http://localhost/orchidea/wordpress/spa-woman-facial-4481538/</link>
-		<pubDate>Mon, 05 Sep 2022 13:42:07 +0000</pubDate>
-		<dc:creator><![CDATA[fulvia]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/orchidea/wordpress/wp-content/uploads/2022/09/spa-woman-facial-4481538.jpg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>102</wp:post_id>
-		<wp:post_date><![CDATA[2022-09-05 15:42:07]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2022-09-05 13:42:07]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-09-05 15:42:07]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-09-05 13:42:07]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[spa-woman-facial-4481538]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://localhost/orchidea/wordpress/wp-content/uploads/2022/09/spa-woman-facial-4481538.jpg]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2022/09/spa-woman-facial-4481538.jpg]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[wp-smush-lossy]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:853;s:6:"height";i:1280;s:4:"file";s:36:"2022/09/spa-woman-facial-4481538.jpg";s:8:"filesize";i:207944;s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_source_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://pixabay.com/get/gec040f62972d76656864269cd1fed15e3834725eb56765bf05d6fb14a104c0383335d845c44dae2632c8dbfb358978e37b7016649f46386632d9493fe8e3ee5c_1280.jpg]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[astra-images]]></wp:meta_key>
-		<wp:meta_value><![CDATA[4481538]]></wp:meta_value>
+		<wp:meta_key><![CDATA[wp-smpro-smush-data]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:2:{s:5:"stats";a:8:{s:7:"percent";d:75.17861542251786;s:5:"bytes";i:30515;s:11:"size_before";i:40590;s:10:"size_after";i:10075;s:4:"time";d:0.11;s:11:"api_version";s:3:"1.0";s:5:"lossy";b:1;s:9:"keep_exif";i:0;}s:5:"sizes";a:1:{s:4:"full";O:8:"stdClass":5:{s:7:"percent";d:75.18;s:5:"bytes";i:30515;s:11:"size_before";i:40590;s:10:"size_after";i:10075;s:4:"time";d:0.11;}}}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_image_alt]]></wp:meta_key>
-		<wp:meta_value><![CDATA[spa, woman, facial-4481538.jpg]]></wp:meta_value>
+		<wp:meta_value><![CDATA[orchidea, salon, bellezza, pelle, viso, capelli]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[woman-young-massage-3688233]]></title>
+		<title><![CDATA[orchidea, salon, bellezza, pelle, viso, capelli]]></title>
 		<link>http://localhost/orchidea/wordpress/woman-young-massage-3688233/</link>
 		<pubDate>Mon, 05 Sep 2022 13:45:01 +0000</pubDate>
 		<dc:creator><![CDATA[fulvia]]></dc:creator>
@@ -432,8 +362,8 @@
 		<wp:post_id>103</wp:post_id>
 		<wp:post_date><![CDATA[2022-09-05 15:45:01]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2022-09-05 13:45:01]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-09-05 15:45:01]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-09-05 13:45:01]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-09-06 19:28:56]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-09-06 17:28:56]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[woman-young-massage-3688233]]></wp:post_name>
@@ -462,11 +392,19 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_image_alt]]></wp:meta_key>
-		<wp:meta_value><![CDATA[woman, young, massage-3688233.jpg]]></wp:meta_value>
+		<wp:meta_value><![CDATA[massaggi, massaggio, viso]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[wp-smush-lossy]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[wp-smpro-smush-data]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:2:{s:5:"stats";a:8:{s:7:"percent";d:39.57429054031319;s:5:"bytes";i:117614;s:11:"size_before";i:297198;s:10:"size_after";i:179584;s:4:"time";d:0.19;s:11:"api_version";s:3:"1.0";s:5:"lossy";b:1;s:9:"keep_exif";i:0;}s:5:"sizes";a:1:{s:4:"full";O:8:"stdClass":5:{s:7:"percent";d:39.57;s:5:"bytes";i:117614;s:11:"size_before";i:297198;s:10:"size_after";i:179584;s:4:"time";d:0.19;}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[spa-massage-beauty-5388990]]></title>
+		<title><![CDATA[orchidea, salon, bellezza, pelle, viso, capelli]]></title>
 		<link>http://localhost/orchidea/wordpress/spa-massage-beauty-5388990/</link>
 		<pubDate>Mon, 05 Sep 2022 14:03:58 +0000</pubDate>
 		<dc:creator><![CDATA[fulvia]]></dc:creator>
@@ -477,8 +415,8 @@
 		<wp:post_id>104</wp:post_id>
 		<wp:post_date><![CDATA[2022-09-05 16:03:58]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2022-09-05 14:03:58]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-09-05 16:03:58]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-09-05 14:03:58]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-09-06 19:28:29]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-09-06 17:28:29]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[spa-massage-beauty-5388990]]></wp:post_name>
@@ -507,11 +445,19 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_image_alt]]></wp:meta_key>
-		<wp:meta_value><![CDATA[spa, massage, beauty-5388990.jpg]]></wp:meta_value>
+		<wp:meta_value><![CDATA[maschera, viso]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[wp-smush-lossy]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[wp-smpro-smush-data]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:2:{s:5:"stats";a:8:{s:7:"percent";d:3.921395743555266;s:5:"bytes";i:3558;s:11:"size_before";i:90733;s:10:"size_after";i:87175;s:4:"time";d:0.11;s:11:"api_version";s:3:"1.0";s:5:"lossy";b:1;s:9:"keep_exif";i:0;}s:5:"sizes";a:1:{s:4:"full";O:8:"stdClass":5:{s:7:"percent";d:3.92;s:5:"bytes";i:3558;s:11:"size_before";i:90733;s:10:"size_after";i:87175;s:4:"time";d:0.11;}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[woman-young-massage-3708735]]></title>
+		<title><![CDATA[orchidea, salon, bellezza, pelle, viso, capelli]]></title>
 		<link>http://localhost/orchidea/wordpress/woman-young-massage-3708735/</link>
 		<pubDate>Mon, 05 Sep 2022 14:34:58 +0000</pubDate>
 		<dc:creator><![CDATA[fulvia]]></dc:creator>
@@ -522,8 +468,8 @@
 		<wp:post_id>112</wp:post_id>
 		<wp:post_date><![CDATA[2022-09-05 16:34:58]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2022-09-05 14:34:58]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-09-05 16:34:58]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-09-05 14:34:58]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-09-06 19:28:09]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-09-06 17:28:09]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[woman-young-massage-3708735]]></wp:post_name>
@@ -552,11 +498,19 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_image_alt]]></wp:meta_key>
-		<wp:meta_value><![CDATA[woman, young, massage-3708735.jpg]]></wp:meta_value>
+		<wp:meta_value><![CDATA[massaggi-massaggio]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[wp-smush-lossy]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[wp-smpro-smush-data]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:2:{s:5:"stats";a:8:{s:7:"percent";d:37.990993016853146;s:5:"bytes";i:62510;s:11:"size_before";i:164539;s:10:"size_after";i:102029;s:4:"time";d:0.14;s:11:"api_version";s:3:"1.0";s:5:"lossy";b:1;s:9:"keep_exif";i:0;}s:5:"sizes";a:1:{s:4:"full";O:8:"stdClass":5:{s:7:"percent";d:37.99;s:5:"bytes";i:62510;s:11:"size_before";i:164539;s:10:"size_after";i:102029;s:4:"time";d:0.14;}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[nails-painting-manicure-3728109]]></title>
+		<title><![CDATA[orchidea, salon, bellezza, pelle, viso, capelli]]></title>
 		<link>http://localhost/orchidea/wordpress/nails-painting-manicure-3728109/</link>
 		<pubDate>Mon, 05 Sep 2022 14:40:30 +0000</pubDate>
 		<dc:creator><![CDATA[fulvia]]></dc:creator>
@@ -567,8 +521,8 @@
 		<wp:post_id>113</wp:post_id>
 		<wp:post_date><![CDATA[2022-09-05 16:40:30]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2022-09-05 14:40:30]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-09-05 16:40:30]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-09-05 14:40:30]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-09-06 19:27:38]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-09-06 17:27:38]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[nails-painting-manicure-3728109]]></wp:post_name>
@@ -597,101 +551,19 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_image_alt]]></wp:meta_key>
-		<wp:meta_value><![CDATA[nails, painting, manicure-3728109.jpg]]></wp:meta_value>
+		<wp:meta_value><![CDATA[manicure]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[wp-smush-lossy]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[wp-smpro-smush-data]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:2:{s:5:"stats";a:8:{s:7:"percent";d:2.681757359500446;s:5:"bytes";i:2405;s:11:"size_before";i:89680;s:10:"size_after";i:87275;s:4:"time";d:0.13;s:11:"api_version";s:3:"1.0";s:5:"lossy";b:1;s:9:"keep_exif";i:0;}s:5:"sizes";a:1:{s:4:"full";O:8:"stdClass":5:{s:7:"percent";d:2.68;s:5:"bytes";i:2405;s:11:"size_before";i:89680;s:10:"size_after";i:87275;s:4:"time";d:0.13;}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[woman-portrait-face-mask-3600521]]></title>
-		<link>http://localhost/orchidea/wordpress/woman-portrait-face-mask-3600521/</link>
-		<pubDate>Mon, 05 Sep 2022 14:43:35 +0000</pubDate>
-		<dc:creator><![CDATA[fulvia]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/orchidea/wordpress/wp-content/uploads/2022/09/woman-portrait-face-mask-3600521.jpg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>114</wp:post_id>
-		<wp:post_date><![CDATA[2022-09-05 16:43:35]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2022-09-05 14:43:35]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-09-05 16:43:35]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-09-05 14:43:35]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[woman-portrait-face-mask-3600521]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://localhost/orchidea/wordpress/wp-content/uploads/2022/09/woman-portrait-face-mask-3600521.jpg]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2022/09/woman-portrait-face-mask-3600521.jpg]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:853;s:6:"height";i:1280;s:4:"file";s:44:"2022/09/woman-portrait-face-mask-3600521.jpg";s:8:"filesize";i:131321;s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_source_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://pixabay.com/get/gdcf615ec62de6968e761eb9d7edf173b9a7e8253b951e6bc954fa4f96a321c04375a3a29a528ca11cf40de659653b2fbb02efeaa07b52f130d2010674c0ab0ca_1280.jpg]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[astra-images]]></wp:meta_key>
-		<wp:meta_value><![CDATA[3600521]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_image_alt]]></wp:meta_key>
-		<wp:meta_value><![CDATA[woman, portrait, face mask-3600521.jpg]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[cosmeatria-lipolaser-cavitacion-2894862]]></title>
-		<link>http://localhost/orchidea/wordpress/cosmeatria-lipolaser-cavitacion-2894862/</link>
-		<pubDate>Mon, 05 Sep 2022 14:48:38 +0000</pubDate>
-		<dc:creator><![CDATA[fulvia]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/orchidea/wordpress/wp-content/uploads/2022/09/cosmeatria-lipolaser-cavitacion-2894862.jpg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>115</wp:post_id>
-		<wp:post_date><![CDATA[2022-09-05 16:48:38]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2022-09-05 14:48:38]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-09-05 16:48:38]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-09-05 14:48:38]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[cosmeatria-lipolaser-cavitacion-2894862]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://localhost/orchidea/wordpress/wp-content/uploads/2022/09/cosmeatria-lipolaser-cavitacion-2894862.jpg]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2022/09/cosmeatria-lipolaser-cavitacion-2894862.jpg]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:1042;s:4:"file";s:51:"2022/09/cosmeatria-lipolaser-cavitacion-2894862.jpg";s:8:"filesize";i:247134;s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:3:"5.6";s:6:"credit";s:0:"";s:6:"camera";s:11:"NIKON D3300";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:2:"55";s:3:"iso";s:4:"2000";s:13:"shutter_speed";s:17:"0.016666666666667";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_source_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://pixabay.com/get/g5ee4265b28284c7b289f5a40adaf0302fffac2776c54ed41e51eea79ac8ad5996558a74adf47fa57bbfa16469de9190943dda70ea461c37f4fe6c5de27582177_1280.jpg]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[astra-images]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2894862]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_image_alt]]></wp:meta_key>
-		<wp:meta_value><![CDATA[cosmeatria, lipolaser, cavitacion-2894862.jpg]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[hairdresser-a-haircut-kid-659139]]></title>
+		<title><![CDATA[orchidea, salon, bellezza, pelle, viso, capelli]]></title>
 		<link>http://localhost/orchidea/wordpress/hairdresser-a-haircut-kid-659139/</link>
 		<pubDate>Mon, 05 Sep 2022 14:51:25 +0000</pubDate>
 		<dc:creator><![CDATA[fulvia]]></dc:creator>
@@ -702,8 +574,8 @@
 		<wp:post_id>116</wp:post_id>
 		<wp:post_date><![CDATA[2022-09-05 16:51:25]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2022-09-05 14:51:25]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-09-05 16:51:25]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-09-05 14:51:25]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-09-06 19:27:16]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-09-06 17:27:16]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[hairdresser-a-haircut-kid-659139]]></wp:post_name>
@@ -732,56 +604,19 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_image_alt]]></wp:meta_key>
-		<wp:meta_value><![CDATA[hairdresser, a haircut, kid-659139.jpg]]></wp:meta_value>
+		<wp:meta_value><![CDATA[taglio capelli]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[wp-smush-lossy]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[wp-smpro-smush-data]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:2:{s:5:"stats";a:8:{s:7:"percent";d:3.8528691578835303;s:5:"bytes";i:3619;s:11:"size_before";i:93930;s:10:"size_after";i:90311;s:4:"time";d:0.16;s:11:"api_version";s:3:"1.0";s:5:"lossy";b:1;s:9:"keep_exif";i:0;}s:5:"sizes";a:1:{s:4:"full";O:8:"stdClass":5:{s:7:"percent";d:3.85;s:5:"bytes";i:3619;s:11:"size_before";i:93930;s:10:"size_after";i:90311;s:4:"time";d:0.16;}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[hairdresser-shampoo-hairdressing-1179461]]></title>
-		<link>http://localhost/orchidea/wordpress/hairdresser-shampoo-hairdressing-1179461/</link>
-		<pubDate>Mon, 05 Sep 2022 14:52:52 +0000</pubDate>
-		<dc:creator><![CDATA[fulvia]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/orchidea/wordpress/wp-content/uploads/2022/09/hairdresser-shampoo-hairdressing-1179461.jpg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>117</wp:post_id>
-		<wp:post_date><![CDATA[2022-09-05 16:52:52]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2022-09-05 14:52:52]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-09-05 16:52:52]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-09-05 14:52:52]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[hairdresser-shampoo-hairdressing-1179461]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://localhost/orchidea/wordpress/wp-content/uploads/2022/09/hairdresser-shampoo-hairdressing-1179461.jpg]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2022/09/hairdresser-shampoo-hairdressing-1179461.jpg]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:1013;s:4:"file";s:52:"2022/09/hairdresser-shampoo-hairdressing-1179461.jpg";s:8:"filesize";i:183490;s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_source_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://pixabay.com/get/gc855f56073d09a035b191ed4a96bf255e19600a55b502b196824b57c1e0373c24b6a520db56b64fa5d72e59d5a01d90c4d16f571bcb04944be5e1da234b42638_1280.jpg]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[astra-images]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1179461]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_image_alt]]></wp:meta_key>
-		<wp:meta_value><![CDATA[hairdresser, shampoo, hairdressing-1179461.jpg]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[sunblock-skincare-healthy-skin-1461397]]></title>
+		<title><![CDATA[orchidea, salon, bellezza, pelle, viso, capelli]]></title>
 		<link>http://localhost/orchidea/wordpress/sunblock-skincare-healthy-skin-1461397/</link>
 		<pubDate>Mon, 05 Sep 2022 14:54:28 +0000</pubDate>
 		<dc:creator><![CDATA[fulvia]]></dc:creator>
@@ -792,8 +627,8 @@
 		<wp:post_id>118</wp:post_id>
 		<wp:post_date><![CDATA[2022-09-05 16:54:28]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2022-09-05 14:54:28]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-09-05 16:54:28]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-09-05 14:54:28]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-09-06 19:26:46]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-09-06 17:26:46]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[sunblock-skincare-healthy-skin-1461397]]></wp:post_name>
@@ -822,11 +657,19 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_image_alt]]></wp:meta_key>
-		<wp:meta_value><![CDATA[sunblock, skincare, healthy skin-1461397.jpg]]></wp:meta_value>
+		<wp:meta_value><![CDATA[pelle]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[wp-smush-lossy]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[wp-smpro-smush-data]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:2:{s:5:"stats";a:8:{s:7:"percent";d:7.343774184924086;s:5:"bytes";i:5219;s:11:"size_before";i:71067;s:10:"size_after";i:65848;s:4:"time";d:0.29;s:11:"api_version";s:3:"1.0";s:5:"lossy";b:1;s:9:"keep_exif";i:0;}s:5:"sizes";a:1:{s:4:"full";O:8:"stdClass":5:{s:7:"percent";d:7.34;s:5:"bytes";i:5219;s:11:"size_before";i:71067;s:10:"size_after";i:65848;s:4:"time";d:0.29;}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[shampoo-man-hairdressing-1668525]]></title>
+		<title><![CDATA[orchidea, salon, bellezza, pelle, viso, capelli]]></title>
 		<link>http://localhost/orchidea/wordpress/shampoo-man-hairdressing-1668525/</link>
 		<pubDate>Mon, 05 Sep 2022 14:57:44 +0000</pubDate>
 		<dc:creator><![CDATA[fulvia]]></dc:creator>
@@ -837,8 +680,8 @@
 		<wp:post_id>119</wp:post_id>
 		<wp:post_date><![CDATA[2022-09-05 16:57:44]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2022-09-05 14:57:44]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-09-05 16:57:44]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-09-05 14:57:44]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-09-06 19:26:28]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-09-06 17:26:28]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[shampoo-man-hairdressing-1668525]]></wp:post_name>
@@ -867,11 +710,19 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_image_alt]]></wp:meta_key>
-		<wp:meta_value><![CDATA[shampoo, man, hairdressing-1668525.jpg]]></wp:meta_value>
+		<wp:meta_value><![CDATA[capelli]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[wp-smush-lossy]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[wp-smpro-smush-data]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:2:{s:5:"stats";a:8:{s:7:"percent";d:5.697144610210319;s:5:"bytes";i:5014;s:11:"size_before";i:88009;s:10:"size_after";i:82995;s:4:"time";d:0.14;s:11:"api_version";s:3:"1.0";s:5:"lossy";b:1;s:9:"keep_exif";i:0;}s:5:"sizes";a:1:{s:4:"full";O:8:"stdClass":5:{s:7:"percent";d:5.7;s:5:"bytes";i:5014;s:11:"size_before";i:88009;s:10:"size_after";i:82995;s:4:"time";d:0.14;}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[orchid-orchid-flower-bamboo-2115260]]></title>
+		<title><![CDATA[orchidea, salon, bellezza, pelle, viso, capelli]]></title>
 		<link>http://localhost/orchidea/wordpress/orchid-orchid-flower-bamboo-2115260/</link>
 		<pubDate>Mon, 05 Sep 2022 15:43:21 +0000</pubDate>
 		<dc:creator><![CDATA[fulvia]]></dc:creator>
@@ -882,8 +733,8 @@
 		<wp:post_id>131</wp:post_id>
 		<wp:post_date><![CDATA[2022-09-05 17:43:21]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2022-09-05 15:43:21]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-09-05 17:43:21]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-09-05 15:43:21]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-09-06 19:26:04]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-09-06 17:26:04]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[orchid-orchid-flower-bamboo-2115260]]></wp:post_name>
@@ -912,11 +763,19 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_image_alt]]></wp:meta_key>
-		<wp:meta_value><![CDATA[orchid, orchid flower, bamboo-2115260.jpg]]></wp:meta_value>
+		<wp:meta_value><![CDATA[orchidea, salon, bellezza, pelle, viso, capelli]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[wp-smush-lossy]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[wp-smpro-smush-data]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:2:{s:5:"stats";a:8:{s:7:"percent";d:5.879957927594748;s:5:"bytes";i:3466;s:11:"size_before";i:58946;s:10:"size_after";i:55480;s:4:"time";d:0.37;s:11:"api_version";s:3:"1.0";s:5:"lossy";b:1;s:9:"keep_exif";i:0;}s:5:"sizes";a:1:{s:4:"full";O:8:"stdClass":5:{s:7:"percent";d:5.88;s:5:"bytes";i:3466;s:11:"size_before";i:58946;s:10:"size_after";i:55480;s:4:"time";d:0.37;}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[essential-oils-alternative-aroma-2535611]]></title>
+		<title><![CDATA[orchidea, salon, bellezza, pelle, viso, capelli]]></title>
 		<link>http://localhost/orchidea/wordpress/essential-oils-alternative-aroma-2535611/</link>
 		<pubDate>Mon, 05 Sep 2022 15:51:16 +0000</pubDate>
 		<dc:creator><![CDATA[fulvia]]></dc:creator>
@@ -927,8 +786,8 @@
 		<wp:post_id>139</wp:post_id>
 		<wp:post_date><![CDATA[2022-09-05 17:51:16]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2022-09-05 15:51:16]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-09-05 17:51:16]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-09-05 15:51:16]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-09-06 19:25:46]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-09-06 17:25:46]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[essential-oils-alternative-aroma-2535611]]></wp:post_name>
@@ -957,11 +816,19 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_image_alt]]></wp:meta_key>
-		<wp:meta_value><![CDATA[essential oils, alternative, aroma-2535611.jpg]]></wp:meta_value>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[wp-smush-lossy]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[wp-smpro-smush-data]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:2:{s:5:"stats";a:8:{s:7:"percent";d:3.0373824545986206;s:5:"bytes";i:9816;s:11:"size_before";i:323173;s:10:"size_after";i:313357;s:4:"time";d:0.37;s:11:"api_version";s:3:"1.0";s:5:"lossy";b:1;s:9:"keep_exif";i:0;}s:5:"sizes";a:1:{s:4:"full";O:8:"stdClass":5:{s:7:"percent";d:3.04;s:5:"bytes";i:9816;s:11:"size_before";i:323173;s:10:"size_after";i:313357;s:4:"time";d:0.37;}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[glass-spoon-cosmetics-3141865]]></title>
+		<title><![CDATA[orchidea, salon, bellezza, pelle, viso, capelli]]></title>
 		<link>http://localhost/orchidea/wordpress/glass-spoon-cosmetics-3141865/</link>
 		<pubDate>Mon, 05 Sep 2022 16:28:37 +0000</pubDate>
 		<dc:creator><![CDATA[fulvia]]></dc:creator>
@@ -972,8 +839,8 @@
 		<wp:post_id>150</wp:post_id>
 		<wp:post_date><![CDATA[2022-09-05 18:28:37]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2022-09-05 16:28:37]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-09-05 18:28:37]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-09-05 16:28:37]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-09-06 19:25:18]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-09-06 17:25:18]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[glass-spoon-cosmetics-3141865]]></wp:post_name>
@@ -1002,7 +869,15 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_image_alt]]></wp:meta_key>
-		<wp:meta_value><![CDATA[glass, spoon, cosmetics-3141865.jpg]]></wp:meta_value>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[wp-smush-lossy]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[wp-smpro-smush-data]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:2:{s:5:"stats";a:8:{s:7:"percent";i:0;s:5:"bytes";i:0;s:11:"size_before";i:108717;s:10:"size_after";i:108717;s:4:"time";d:0.57;s:11:"api_version";s:3:"1.0";s:5:"lossy";b:1;s:9:"keep_exif";i:0;}s:5:"sizes";a:1:{s:4:"full";O:8:"stdClass":5:{s:7:"percent";i:0;s:5:"bytes";i:0;s:11:"size_before";i:108717;s:10:"size_after";i:108717;s:4:"time";d:0.57;}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -1017,8 +892,8 @@
 		<wp:post_id>152</wp:post_id>
 		<wp:post_date><![CDATA[2022-09-05 18:29:59]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2022-09-05 16:29:59]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-09-05 18:29:59]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-09-05 16:29:59]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-09-06 19:25:06]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-09-06 17:25:06]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[essential-oil-spa-cosmetology-4065187]]></wp:post_name>
@@ -1047,11 +922,19 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_image_alt]]></wp:meta_key>
-		<wp:meta_value><![CDATA[essential oil, spa, cosmetology-4065187.jpg]]></wp:meta_value>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[wp-smush-lossy]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[wp-smpro-smush-data]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:2:{s:5:"stats";a:8:{s:7:"percent";d:9.10734077926507;s:5:"bytes";i:5341;s:11:"size_before";i:58645;s:10:"size_after";i:53304;s:4:"time";d:0.21;s:11:"api_version";s:3:"1.0";s:5:"lossy";b:1;s:9:"keep_exif";i:0;}s:5:"sizes";a:1:{s:4:"full";O:8:"stdClass":5:{s:7:"percent";d:9.11;s:5:"bytes";i:5341;s:11:"size_before";i:58645;s:10:"size_after";i:53304;s:4:"time";d:0.21;}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[cosmetic-skincare-female-2357981]]></title>
+		<title><![CDATA[orchidea, salon, bellezza, pelle, viso, capelli]]></title>
 		<link>http://localhost/orchidea/wordpress/cosmetic-skincare-female-2357981/</link>
 		<pubDate>Mon, 05 Sep 2022 16:31:28 +0000</pubDate>
 		<dc:creator><![CDATA[fulvia]]></dc:creator>
@@ -1062,8 +945,8 @@
 		<wp:post_id>153</wp:post_id>
 		<wp:post_date><![CDATA[2022-09-05 18:31:28]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2022-09-05 16:31:28]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-09-05 18:31:28]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-09-05 16:31:28]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-09-06 19:24:58]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-09-06 17:24:58]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[cosmetic-skincare-female-2357981]]></wp:post_name>
@@ -1092,85 +975,19 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_image_alt]]></wp:meta_key>
-		<wp:meta_value><![CDATA[cosmetic, skincare, female-2357981.jpg]]></wp:meta_value>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[wp-smush-lossy]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[wp-smpro-smush-data]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:2:{s:5:"stats";a:8:{s:7:"percent";d:36.90810218587997;s:5:"bytes";i:55247;s:11:"size_before";i:149688;s:10:"size_after";i:94441;s:4:"time";d:0.21;s:11:"api_version";s:3:"1.0";s:5:"lossy";b:1;s:9:"keep_exif";i:0;}s:5:"sizes";a:1:{s:4:"full";O:8:"stdClass":5:{s:7:"percent";d:36.91;s:5:"bytes";i:55247;s:11:"size_before";i:149688;s:10:"size_after";i:94441;s:4:"time";d:0.21;}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[nutrition-banner-03.png]]></title>
-		<link>http://localhost/orchidea/wordpress/nutrition-banner-03-png/</link>
-		<pubDate>Mon, 05 Sep 2022 16:34:45 +0000</pubDate>
-		<dc:creator><![CDATA[fulvia]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/orchidea/wordpress/wp-content/uploads/2022/09/nutrition-banner-03.png</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>157</wp:post_id>
-		<wp:post_date><![CDATA[2022-09-05 18:34:45]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2022-09-05 16:34:45]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-09-05 18:34:45]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-09-05 16:34:45]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[nutrition-banner-03-png]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://localhost/orchidea/wordpress/wp-content/uploads/2022/09/nutrition-banner-03.png]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2022/09/nutrition-banner-03.png]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:564;s:6:"height";i:700;s:4:"file";s:31:"2022/09/nutrition-banner-03.png";s:8:"filesize";i:445738;s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_source_image_hash]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2a82c14dae5afddadaea754c9aca314f7b8517a9]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[home-banner.jpg]]></title>
-		<link>http://localhost/orchidea/wordpress/home-banner-jpg/</link>
-		<pubDate>Mon, 05 Sep 2022 16:34:46 +0000</pubDate>
-		<dc:creator><![CDATA[fulvia]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/orchidea/wordpress/wp-content/uploads/2022/09/home-banner.jpg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>158</wp:post_id>
-		<wp:post_date><![CDATA[2022-09-05 18:34:46]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2022-09-05 16:34:46]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-09-05 18:34:46]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-09-05 16:34:46]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[home-banner-jpg]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://localhost/orchidea/wordpress/wp-content/uploads/2022/09/home-banner.jpg]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2022/09/home-banner.jpg]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1920;s:6:"height";i:1100;s:4:"file";s:23:"2022/09/home-banner.jpg";s:8:"filesize";i:530249;s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_source_image_hash]]></wp:meta_key>
-		<wp:meta_value><![CDATA[fe94fa1b533fb7a9927d096c207de7f734491cd5]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[img-01.jpg]]></title>
+		<title><![CDATA[orchidea, salon, bellezza, pelle, viso, capelli]]></title>
 		<link>http://localhost/orchidea/wordpress/img-01-jpg/</link>
 		<pubDate>Mon, 05 Sep 2022 16:34:46 +0000</pubDate>
 		<dc:creator><![CDATA[fulvia]]></dc:creator>
@@ -1181,8 +998,8 @@
 		<wp:post_id>159</wp:post_id>
 		<wp:post_date><![CDATA[2022-09-05 18:34:46]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2022-09-05 16:34:46]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-09-05 18:34:46]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-09-05 16:34:46]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-09-06 19:24:49]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-09-06 17:24:49]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[img-01-jpg]]></wp:post_name>
@@ -1205,9 +1022,17 @@
 		<wp:meta_key><![CDATA[_elementor_source_image_hash]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a015090d3078d7cc9870b180d8c6be60475613b2]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[wp-smush-lossy]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[wp-smpro-smush-data]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:2:{s:5:"stats";a:8:{s:7:"percent";d:29.686387418346182;s:5:"bytes";i:9589;s:11:"size_before";i:32301;s:10:"size_after";i:22712;s:4:"time";d:0.07;s:11:"api_version";s:3:"1.0";s:5:"lossy";b:1;s:9:"keep_exif";i:0;}s:5:"sizes";a:1:{s:4:"full";O:8:"stdClass":5:{s:7:"percent";d:29.69;s:5:"bytes";i:9589;s:11:"size_before";i:32301;s:10:"size_after";i:22712;s:4:"time";d:0.07;}}}]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[img-02.jpg]]></title>
+		<title><![CDATA[orchidea, salon, bellezza, pelle, viso, capelli]]></title>
 		<link>http://localhost/orchidea/wordpress/img-02-jpg/</link>
 		<pubDate>Mon, 05 Sep 2022 16:34:46 +0000</pubDate>
 		<dc:creator><![CDATA[fulvia]]></dc:creator>
@@ -1218,8 +1043,8 @@
 		<wp:post_id>160</wp:post_id>
 		<wp:post_date><![CDATA[2022-09-05 18:34:46]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2022-09-05 16:34:46]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-09-05 18:34:46]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-09-05 16:34:46]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-09-06 19:24:41]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-09-06 17:24:41]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[img-02-jpg]]></wp:post_name>
@@ -1242,449 +1067,13 @@
 		<wp:meta_key><![CDATA[_elementor_source_image_hash]]></wp:meta_key>
 		<wp:meta_value><![CDATA[9b39bb75d0209c2669ad7ca8669fd6bbbce8c178]]></wp:meta_value>
 		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[img-04.jpg]]></title>
-		<link>http://localhost/orchidea/wordpress/img-04-jpg/</link>
-		<pubDate>Mon, 05 Sep 2022 16:34:46 +0000</pubDate>
-		<dc:creator><![CDATA[fulvia]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/orchidea/wordpress/wp-content/uploads/2022/09/img-04.jpg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>161</wp:post_id>
-		<wp:post_date><![CDATA[2022-09-05 18:34:46]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2022-09-05 16:34:46]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-09-05 18:34:46]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-09-05 16:34:46]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[img-04-jpg]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://localhost/orchidea/wordpress/wp-content/uploads/2022/09/img-04.jpg]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2022/09/img-04.jpg]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[wp-smush-lossy]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:400;s:6:"height";i:300;s:4:"file";s:18:"2022/09/img-04.jpg";s:8:"filesize";i:38079;s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_source_image_hash]]></wp:meta_key>
-		<wp:meta_value><![CDATA[d41e6d028f63332d218a1f412ad732249aea2c63]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[signature.png]]></title>
-		<link>http://localhost/orchidea/wordpress/signature-png/</link>
-		<pubDate>Mon, 05 Sep 2022 16:34:46 +0000</pubDate>
-		<dc:creator><![CDATA[fulvia]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/orchidea/wordpress/wp-content/uploads/2022/09/signature.png</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>162</wp:post_id>
-		<wp:post_date><![CDATA[2022-09-05 18:34:46]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2022-09-05 16:34:46]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-09-05 18:34:46]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-09-05 16:34:46]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[signature-png]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://localhost/orchidea/wordpress/wp-content/uploads/2022/09/signature.png]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2022/09/signature.png]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:200;s:6:"height";i:80;s:4:"file";s:21:"2022/09/signature.png";s:8:"filesize";i:3246;s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_source_image_hash]]></wp:meta_key>
-		<wp:meta_value><![CDATA[8e7dde3e59f963c14932d1eb81a397398f63be4e]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[1-4.png]]></title>
-		<link>http://localhost/orchidea/wordpress/1-4-png/</link>
-		<pubDate>Mon, 05 Sep 2022 16:34:47 +0000</pubDate>
-		<dc:creator><![CDATA[fulvia]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/orchidea/wordpress/wp-content/uploads/2022/09/1-4.png</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>163</wp:post_id>
-		<wp:post_date><![CDATA[2022-09-05 18:34:47]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2022-09-05 16:34:47]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-09-05 18:34:47]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-09-05 16:34:47]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[1-4-png]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://localhost/orchidea/wordpress/wp-content/uploads/2022/09/1-4.png]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2022/09/1-4.png]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:791;s:6:"height";i:680;s:4:"file";s:15:"2022/09/1-4.png";s:8:"filesize";i:58438;s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_source_image_hash]]></wp:meta_key>
-		<wp:meta_value><![CDATA[d960d6e6e074b5c4688a8f6b520310b8e53aca6f]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[service-01.jpg]]></title>
-		<link>http://localhost/orchidea/wordpress/service-01-jpg/</link>
-		<pubDate>Mon, 05 Sep 2022 16:34:47 +0000</pubDate>
-		<dc:creator><![CDATA[fulvia]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/orchidea/wordpress/wp-content/uploads/2022/09/service-01.jpg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>164</wp:post_id>
-		<wp:post_date><![CDATA[2022-09-05 18:34:47]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2022-09-05 16:34:47]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-09-05 18:34:47]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-09-05 16:34:47]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[service-01-jpg]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://localhost/orchidea/wordpress/wp-content/uploads/2022/09/service-01.jpg]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2022/09/service-01.jpg]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:400;s:6:"height";i:600;s:4:"file";s:22:"2022/09/service-01.jpg";s:8:"filesize";i:47879;s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_source_image_hash]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1c7d64db4d4f67c9bab68d9dfae75141415a2593]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[ser03-free-img.jpg]]></title>
-		<link>http://localhost/orchidea/wordpress/ser03-free-img-jpg/</link>
-		<pubDate>Mon, 05 Sep 2022 16:34:47 +0000</pubDate>
-		<dc:creator><![CDATA[fulvia]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/orchidea/wordpress/wp-content/uploads/2022/09/ser03-free-img.jpg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>165</wp:post_id>
-		<wp:post_date><![CDATA[2022-09-05 18:34:47]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2022-09-05 16:34:47]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-09-05 18:34:47]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-09-05 16:34:47]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[ser03-free-img-jpg]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://localhost/orchidea/wordpress/wp-content/uploads/2022/09/ser03-free-img.jpg]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2022/09/ser03-free-img.jpg]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:400;s:6:"height";i:600;s:4:"file";s:26:"2022/09/ser03-free-img.jpg";s:8:"filesize";i:50631;s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_source_image_hash]]></wp:meta_key>
-		<wp:meta_value><![CDATA[503a0016879eadd6b72ed45fb472aa984eef14a2]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[service-05.jpg]]></title>
-		<link>http://localhost/orchidea/wordpress/service-05-jpg/</link>
-		<pubDate>Mon, 05 Sep 2022 16:34:48 +0000</pubDate>
-		<dc:creator><![CDATA[fulvia]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/orchidea/wordpress/wp-content/uploads/2022/09/service-05.jpg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>166</wp:post_id>
-		<wp:post_date><![CDATA[2022-09-05 18:34:48]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2022-09-05 16:34:48]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-09-05 18:34:48]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-09-05 16:34:48]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[service-05-jpg]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://localhost/orchidea/wordpress/wp-content/uploads/2022/09/service-05.jpg]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2022/09/service-05.jpg]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:400;s:6:"height";i:600;s:4:"file";s:22:"2022/09/service-05.jpg";s:8:"filesize";i:54156;s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_source_image_hash]]></wp:meta_key>
-		<wp:meta_value><![CDATA[88cfe586d883ef68969026ce500c532217b6179f]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[ser02-free-img.jpg]]></title>
-		<link>http://localhost/orchidea/wordpress/ser02-free-img-jpg/</link>
-		<pubDate>Mon, 05 Sep 2022 16:34:48 +0000</pubDate>
-		<dc:creator><![CDATA[fulvia]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/orchidea/wordpress/wp-content/uploads/2022/09/ser02-free-img.jpg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>167</wp:post_id>
-		<wp:post_date><![CDATA[2022-09-05 18:34:48]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2022-09-05 16:34:48]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-09-05 18:34:48]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-09-05 16:34:48]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[ser02-free-img-jpg]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://localhost/orchidea/wordpress/wp-content/uploads/2022/09/ser02-free-img.jpg]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2022/09/ser02-free-img.jpg]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:400;s:6:"height";i:600;s:4:"file";s:26:"2022/09/ser02-free-img.jpg";s:8:"filesize";i:66736;s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_source_image_hash]]></wp:meta_key>
-		<wp:meta_value><![CDATA[352b537028759080e307be870acefc0d3f6ac50f]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[service-04.jpg]]></title>
-		<link>http://localhost/orchidea/wordpress/service-04-jpg/</link>
-		<pubDate>Mon, 05 Sep 2022 16:34:48 +0000</pubDate>
-		<dc:creator><![CDATA[fulvia]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/orchidea/wordpress/wp-content/uploads/2022/09/service-04.jpg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>168</wp:post_id>
-		<wp:post_date><![CDATA[2022-09-05 18:34:48]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2022-09-05 16:34:48]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-09-05 18:34:48]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-09-05 16:34:48]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[service-04-jpg]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://localhost/orchidea/wordpress/wp-content/uploads/2022/09/service-04.jpg]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2022/09/service-04.jpg]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:400;s:6:"height";i:600;s:4:"file";s:22:"2022/09/service-04.jpg";s:8:"filesize";i:49977;s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_source_image_hash]]></wp:meta_key>
-		<wp:meta_value><![CDATA[d3217c16341a37582bbd74d239855f776a7203a6]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[client-2-free-img.jpg]]></title>
-		<link>http://localhost/orchidea/wordpress/client-2-free-img-jpg/</link>
-		<pubDate>Mon, 05 Sep 2022 16:34:48 +0000</pubDate>
-		<dc:creator><![CDATA[fulvia]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/orchidea/wordpress/wp-content/uploads/2022/09/client-2-free-img.jpg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>169</wp:post_id>
-		<wp:post_date><![CDATA[2022-09-05 18:34:48]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2022-09-05 16:34:48]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-09-05 18:34:48]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-09-05 16:34:48]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[client-2-free-img-jpg]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://localhost/orchidea/wordpress/wp-content/uploads/2022/09/client-2-free-img.jpg]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2022/09/client-2-free-img.jpg]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:250;s:6:"height";i:250;s:4:"file";s:29:"2022/09/client-2-free-img.jpg";s:8:"filesize";i:11962;s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_source_image_hash]]></wp:meta_key>
-		<wp:meta_value><![CDATA[349b187cc7849382b2d63d676c643e717dad7fdd]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[client-5-free-img.jpg]]></title>
-		<link>http://localhost/orchidea/wordpress/client-5-free-img-jpg/</link>
-		<pubDate>Mon, 05 Sep 2022 16:34:48 +0000</pubDate>
-		<dc:creator><![CDATA[fulvia]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/orchidea/wordpress/wp-content/uploads/2022/09/client-5-free-img.jpg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>170</wp:post_id>
-		<wp:post_date><![CDATA[2022-09-05 18:34:48]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2022-09-05 16:34:48]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-09-05 18:34:48]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-09-05 16:34:48]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[client-5-free-img-jpg]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://localhost/orchidea/wordpress/wp-content/uploads/2022/09/client-5-free-img.jpg]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2022/09/client-5-free-img.jpg]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:250;s:6:"height";i:250;s:4:"file";s:29:"2022/09/client-5-free-img.jpg";s:8:"filesize";i:12800;s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_source_image_hash]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2ac619a202dfd45b0e0b69d7610d89a920e8b602]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[client-1-free-img.jpg]]></title>
-		<link>http://localhost/orchidea/wordpress/client-1-free-img-jpg/</link>
-		<pubDate>Mon, 05 Sep 2022 16:34:49 +0000</pubDate>
-		<dc:creator><![CDATA[fulvia]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/orchidea/wordpress/wp-content/uploads/2022/09/client-1-free-img.jpg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>171</wp:post_id>
-		<wp:post_date><![CDATA[2022-09-05 18:34:49]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2022-09-05 16:34:49]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-09-05 18:34:49]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-09-05 16:34:49]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[client-1-free-img-jpg]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://localhost/orchidea/wordpress/wp-content/uploads/2022/09/client-1-free-img.jpg]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2022/09/client-1-free-img.jpg]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:250;s:6:"height";i:250;s:4:"file";s:29:"2022/09/client-1-free-img.jpg";s:8:"filesize";i:14198;s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_source_image_hash]]></wp:meta_key>
-		<wp:meta_value><![CDATA[dd985265ca2eb1d04e585a4c07a1cf435e016020]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[parallax-1.png]]></title>
-		<link>http://localhost/orchidea/wordpress/parallax-1-png/</link>
-		<pubDate>Mon, 05 Sep 2022 16:34:49 +0000</pubDate>
-		<dc:creator><![CDATA[fulvia]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/orchidea/wordpress/wp-content/uploads/2022/09/parallax-1.png</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>172</wp:post_id>
-		<wp:post_date><![CDATA[2022-09-05 18:34:49]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2022-09-05 16:34:49]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-09-05 18:34:49]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-09-05 16:34:49]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[parallax-1-png]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://localhost/orchidea/wordpress/wp-content/uploads/2022/09/parallax-1.png]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2022/09/parallax-1.png]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1920;s:6:"height";i:662;s:4:"file";s:22:"2022/09/parallax-1.png";s:8:"filesize";i:17523;s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_source_image_hash]]></wp:meta_key>
-		<wp:meta_value><![CDATA[cbc404289d0afd2fad2de637f76be3706729ecaa]]></wp:meta_value>
+		<wp:meta_key><![CDATA[wp-smpro-smush-data]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:2:{s:5:"stats";a:8:{s:7:"percent";d:23.264643954299128;s:5:"bytes";i:6740;s:11:"size_before";i:28971;s:10:"size_after";i:22231;s:4:"time";d:0.08;s:11:"api_version";s:3:"1.0";s:5:"lossy";b:1;s:9:"keep_exif";i:0;}s:5:"sizes";a:1:{s:4:"full";O:8:"stdClass":5:{s:7:"percent";d:23.26;s:5:"bytes";i:6740;s:11:"size_before";i:28971;s:10:"size_after";i:22231;s:4:"time";d:0.08;}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -2047,234 +1436,6 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[20]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[page]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[]]></title>
-		<link>http://localhost/orchidea/wordpress/2022/08/30/44/</link>
-		<pubDate>Tue, 30 Aug 2022 16:25:09 +0000</pubDate>
-		<dc:creator><![CDATA[fulvia]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/orchidea/wordpress/?p=44</guid>
-		<description></description>
-		<content:encoded><![CDATA[ ]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>44</wp:post_id>
-		<wp:post_date><![CDATA[2022-08-30 18:25:09]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2022-08-30 16:25:09]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-08-30 18:25:09]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-08-30 16:25:09]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[44]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>16</wp:post_parent>
-		<wp:menu_order>5</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="menu-testata"><![CDATA[menu testata]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[42]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[22]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[page]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[]]></title>
-		<link>http://localhost/orchidea/wordpress/2022/08/30/45/</link>
-		<pubDate>Tue, 30 Aug 2022 16:25:09 +0000</pubDate>
-		<dc:creator><![CDATA[fulvia]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/orchidea/wordpress/?p=45</guid>
-		<description></description>
-		<content:encoded><![CDATA[ ]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>45</wp:post_id>
-		<wp:post_date><![CDATA[2022-08-30 18:25:09]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2022-08-30 16:25:09]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-08-30 18:25:09]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-08-30 16:25:09]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[45]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>16</wp:post_parent>
-		<wp:menu_order>6</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="menu-testata"><![CDATA[menu testata]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[42]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[26]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[page]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[]]></title>
-		<link>http://localhost/orchidea/wordpress/2022/08/30/46/</link>
-		<pubDate>Tue, 30 Aug 2022 16:25:09 +0000</pubDate>
-		<dc:creator><![CDATA[fulvia]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/orchidea/wordpress/?p=46</guid>
-		<description></description>
-		<content:encoded><![CDATA[ ]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>46</wp:post_id>
-		<wp:post_date><![CDATA[2022-08-30 18:25:09]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2022-08-30 16:25:09]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-08-30 18:25:09]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-08-30 16:25:09]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[46]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>16</wp:post_parent>
-		<wp:menu_order>7</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="menu-testata"><![CDATA[menu testata]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[42]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[30]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[page]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[]]></title>
-		<link>http://localhost/orchidea/wordpress/2022/08/30/47/</link>
-		<pubDate>Tue, 30 Aug 2022 16:25:09 +0000</pubDate>
-		<dc:creator><![CDATA[fulvia]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/orchidea/wordpress/?p=47</guid>
-		<description></description>
-		<content:encoded><![CDATA[ ]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>47</wp:post_id>
-		<wp:post_date><![CDATA[2022-08-30 18:25:09]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2022-08-30 16:25:09]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-08-30 18:25:09]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-08-30 16:25:09]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[47]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>16</wp:post_parent>
-		<wp:menu_order>8</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="menu-testata"><![CDATA[menu testata]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[42]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[28]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
@@ -2689,40 +1850,330 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[book.png]]></title>
-		<link>http://localhost/orchidea/wordpress/book-png/</link>
-		<pubDate>Mon, 05 Sep 2022 16:34:49 +0000</pubDate>
+		<title><![CDATA[orchidea, salon, bellezza, pelle, viso, capelli]]></title>
+		<link>http://localhost/orchidea/wordpress/img-04-jpg/</link>
+		<pubDate>Mon, 05 Sep 2022 16:34:46 +0000</pubDate>
 		<dc:creator><![CDATA[fulvia]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/orchidea/wordpress/wp-content/uploads/2022/09/book.png</guid>
+		<guid isPermaLink="false">http://localhost/orchidea/wordpress/wp-content/uploads/2022/09/img-04.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>173</wp:post_id>
-		<wp:post_date><![CDATA[2022-09-05 18:34:49]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2022-09-05 16:34:49]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-09-05 18:34:49]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-09-05 16:34:49]]></wp:post_modified_gmt>
+		<wp:post_id>161</wp:post_id>
+		<wp:post_date><![CDATA[2022-09-05 18:34:46]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-09-05 16:34:46]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-09-06 19:24:34]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-09-06 17:24:34]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[book-png]]></wp:post_name>
+		<wp:post_name><![CDATA[img-04-jpg]]></wp:post_name>
 		<wp:status><![CDATA[inherit]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://localhost/orchidea/wordpress/wp-content/uploads/2022/09/book.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://localhost/orchidea/wordpress/wp-content/uploads/2022/09/img-04.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2022/09/book.png]]></wp:meta_value>
+		<wp:meta_value><![CDATA[2022/09/img-04.jpg]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:600;s:6:"height";i:708;s:4:"file";s:16:"2022/09/book.png";s:8:"filesize";i:74784;s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:400;s:6:"height";i:300;s:4:"file";s:18:"2022/09/img-04.jpg";s:8:"filesize";i:38079;s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_source_image_hash]]></wp:meta_key>
-		<wp:meta_value><![CDATA[b00773f97ae6a571bd1d342c43523983cdb31ecd]]></wp:meta_value>
+		<wp:meta_value><![CDATA[d41e6d028f63332d218a1f412ad732249aea2c63]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[wp-smush-lossy]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[wp-smpro-smush-data]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:2:{s:5:"stats";a:8:{s:7:"percent";d:26.19291472990362;s:5:"bytes";i:9974;s:11:"size_before";i:38079;s:10:"size_after";i:28105;s:4:"time";d:0.05;s:11:"api_version";s:3:"1.0";s:5:"lossy";b:1;s:9:"keep_exif";i:0;}s:5:"sizes";a:1:{s:4:"full";O:8:"stdClass":5:{s:7:"percent";d:26.19;s:5:"bytes";i:9974;s:11:"size_before";i:38079;s:10:"size_after";i:28105;s:4:"time";d:0.05;}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[signature.png]]></title>
+		<link>http://localhost/orchidea/wordpress/signature-png/</link>
+		<pubDate>Mon, 05 Sep 2022 16:34:46 +0000</pubDate>
+		<dc:creator><![CDATA[fulvia]]></dc:creator>
+		<guid isPermaLink="false">http://localhost/orchidea/wordpress/wp-content/uploads/2022/09/signature.png</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>162</wp:post_id>
+		<wp:post_date><![CDATA[2022-09-05 18:34:46]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-09-05 16:34:46]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-09-05 18:34:46]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-09-05 16:34:46]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[signature-png]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[http://localhost/orchidea/wordpress/wp-content/uploads/2022/09/signature.png]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2022/09/signature.png]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:200;s:6:"height";i:80;s:4:"file";s:21:"2022/09/signature.png";s:8:"filesize";i:3246;s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_elementor_source_image_hash]]></wp:meta_key>
+		<wp:meta_value><![CDATA[8e7dde3e59f963c14932d1eb81a397398f63be4e]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[wp-smush-lossy]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[wp-smpro-smush-data]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:2:{s:5:"stats";a:8:{s:7:"percent";d:58.74922982131855;s:5:"bytes";i:1907;s:11:"size_before";i:3246;s:10:"size_after";i:1339;s:4:"time";d:0.2;s:11:"api_version";s:3:"1.0";s:5:"lossy";b:1;s:9:"keep_exif";i:0;}s:5:"sizes";a:1:{s:4:"full";O:8:"stdClass":5:{s:7:"percent";d:58.75;s:5:"bytes";i:1907;s:11:"size_before";i:3246;s:10:"size_after";i:1339;s:4:"time";d:0.2;}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[1-4.png]]></title>
+		<link>http://localhost/orchidea/wordpress/1-4-png/</link>
+		<pubDate>Mon, 05 Sep 2022 16:34:47 +0000</pubDate>
+		<dc:creator><![CDATA[fulvia]]></dc:creator>
+		<guid isPermaLink="false">http://localhost/orchidea/wordpress/wp-content/uploads/2022/09/1-4.png</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>163</wp:post_id>
+		<wp:post_date><![CDATA[2022-09-05 18:34:47]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-09-05 16:34:47]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-09-05 18:34:47]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-09-05 16:34:47]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[1-4-png]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[http://localhost/orchidea/wordpress/wp-content/uploads/2022/09/1-4.png]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2022/09/1-4.png]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:791;s:6:"height";i:680;s:4:"file";s:15:"2022/09/1-4.png";s:8:"filesize";i:58438;s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_elementor_source_image_hash]]></wp:meta_key>
+		<wp:meta_value><![CDATA[d960d6e6e074b5c4688a8f6b520310b8e53aca6f]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[wp-smush-lossy]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[wp-smpro-smush-data]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:2:{s:5:"stats";a:8:{s:7:"percent";d:75.85646326020739;s:5:"bytes";i:44329;s:11:"size_before";i:58438;s:10:"size_after";i:14109;s:4:"time";d:0.58;s:11:"api_version";s:3:"1.0";s:5:"lossy";b:1;s:9:"keep_exif";i:0;}s:5:"sizes";a:1:{s:4:"full";O:8:"stdClass":5:{s:7:"percent";d:75.86;s:5:"bytes";i:44329;s:11:"size_before";i:58438;s:10:"size_after";i:14109;s:4:"time";d:0.58;}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[orchidea, salon, bellezza, pelle, viso, capelli]]></title>
+		<link>http://localhost/orchidea/wordpress/client-2-free-img-jpg/</link>
+		<pubDate>Mon, 05 Sep 2022 16:34:48 +0000</pubDate>
+		<dc:creator><![CDATA[fulvia]]></dc:creator>
+		<guid isPermaLink="false">http://localhost/orchidea/wordpress/wp-content/uploads/2022/09/client-2-free-img.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>169</wp:post_id>
+		<wp:post_date><![CDATA[2022-09-05 18:34:48]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-09-05 16:34:48]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-09-06 19:16:26]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-09-06 17:16:26]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[client-2-free-img-jpg]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[http://localhost/orchidea/wordpress/wp-content/uploads/2022/09/client-2-free-img.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2022/09/client-2-free-img.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:250;s:6:"height";i:250;s:4:"file";s:29:"2022/09/client-2-free-img.jpg";s:8:"filesize";i:11962;s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_elementor_source_image_hash]]></wp:meta_key>
+		<wp:meta_value><![CDATA[349b187cc7849382b2d63d676c643e717dad7fdd]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[wp-smush-lossy]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[wp-smpro-smush-data]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:2:{s:5:"stats";a:8:{s:7:"percent";d:9.41314161511453;s:5:"bytes";i:1126;s:11:"size_before";i:11962;s:10:"size_after";i:10836;s:4:"time";d:0.01;s:11:"api_version";s:3:"1.0";s:5:"lossy";b:1;s:9:"keep_exif";i:0;}s:5:"sizes";a:1:{s:4:"full";O:8:"stdClass":5:{s:7:"percent";d:9.41;s:5:"bytes";i:1126;s:11:"size_before";i:11962;s:10:"size_after";i:10836;s:4:"time";d:0.01;}}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_image_alt]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[orchidea, salon, bellezza, pelle, viso, capelli]]></title>
+		<link>http://localhost/orchidea/wordpress/client-5-free-img-jpg/</link>
+		<pubDate>Mon, 05 Sep 2022 16:34:48 +0000</pubDate>
+		<dc:creator><![CDATA[fulvia]]></dc:creator>
+		<guid isPermaLink="false">http://localhost/orchidea/wordpress/wp-content/uploads/2022/09/client-5-free-img.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>170</wp:post_id>
+		<wp:post_date><![CDATA[2022-09-05 18:34:48]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-09-05 16:34:48]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-09-06 19:16:34]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-09-06 17:16:34]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[client-5-free-img-jpg]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[http://localhost/orchidea/wordpress/wp-content/uploads/2022/09/client-5-free-img.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2022/09/client-5-free-img.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:250;s:6:"height";i:250;s:4:"file";s:29:"2022/09/client-5-free-img.jpg";s:8:"filesize";i:12800;s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_elementor_source_image_hash]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2ac619a202dfd45b0e0b69d7610d89a920e8b602]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[wp-smush-lossy]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[wp-smpro-smush-data]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:2:{s:5:"stats";a:8:{s:7:"percent";d:8.7109375;s:5:"bytes";i:1115;s:11:"size_before";i:12800;s:10:"size_after";i:11685;s:4:"time";d:0.03;s:11:"api_version";s:3:"1.0";s:5:"lossy";b:1;s:9:"keep_exif";i:0;}s:5:"sizes";a:1:{s:4:"full";O:8:"stdClass":5:{s:7:"percent";d:8.71;s:5:"bytes";i:1115;s:11:"size_before";i:12800;s:10:"size_after";i:11685;s:4:"time";d:0.03;}}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_image_alt]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[orchidea, salon, bellezza, pelle, viso, capelli]]></title>
+		<link>http://localhost/orchidea/wordpress/client-1-free-img-jpg/</link>
+		<pubDate>Mon, 05 Sep 2022 16:34:49 +0000</pubDate>
+		<dc:creator><![CDATA[fulvia]]></dc:creator>
+		<guid isPermaLink="false">http://localhost/orchidea/wordpress/wp-content/uploads/2022/09/client-1-free-img.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>171</wp:post_id>
+		<wp:post_date><![CDATA[2022-09-05 18:34:49]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-09-05 16:34:49]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-09-06 19:16:53]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-09-06 17:16:53]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[client-1-free-img-jpg]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[http://localhost/orchidea/wordpress/wp-content/uploads/2022/09/client-1-free-img.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2022/09/client-1-free-img.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:250;s:6:"height";i:250;s:4:"file";s:29:"2022/09/client-1-free-img.jpg";s:8:"filesize";i:14198;s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_elementor_source_image_hash]]></wp:meta_key>
+		<wp:meta_value><![CDATA[dd985265ca2eb1d04e585a4c07a1cf435e016020]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[wp-smush-lossy]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[wp-smpro-smush-data]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:2:{s:5:"stats";a:8:{s:7:"percent";d:8.65614875334554;s:5:"bytes";i:1229;s:11:"size_before";i:14198;s:10:"size_after";i:12969;s:4:"time";d:0.08;s:11:"api_version";s:3:"1.0";s:5:"lossy";b:1;s:9:"keep_exif";i:0;}s:5:"sizes";a:1:{s:4:"full";O:8:"stdClass":5:{s:7:"percent";d:8.66;s:5:"bytes";i:1229;s:11:"size_before";i:14198;s:10:"size_after";i:12969;s:4:"time";d:0.08;}}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_image_alt]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[parallax-1.png]]></title>
+		<link>http://localhost/orchidea/wordpress/parallax-1-png/</link>
+		<pubDate>Mon, 05 Sep 2022 16:34:49 +0000</pubDate>
+		<dc:creator><![CDATA[fulvia]]></dc:creator>
+		<guid isPermaLink="false">http://localhost/orchidea/wordpress/wp-content/uploads/2022/09/parallax-1.png</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>172</wp:post_id>
+		<wp:post_date><![CDATA[2022-09-05 18:34:49]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-09-05 16:34:49]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-09-05 18:34:49]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-09-05 16:34:49]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[parallax-1-png]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[http://localhost/orchidea/wordpress/wp-content/uploads/2022/09/parallax-1.png]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2022/09/parallax-1.png]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1920;s:6:"height";i:662;s:4:"file";s:22:"2022/09/parallax-1.png";s:8:"filesize";i:17523;s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_elementor_source_image_hash]]></wp:meta_key>
+		<wp:meta_value><![CDATA[cbc404289d0afd2fad2de637f76be3706729ecaa]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[wp-smush-lossy]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[wp-smpro-smush-data]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:2:{s:5:"stats";a:8:{s:7:"percent";d:82.4972892769503;s:5:"bytes";i:14456;s:11:"size_before";i:17523;s:10:"size_after";i:3067;s:4:"time";d:0.75;s:11:"api_version";s:3:"1.0";s:5:"lossy";b:1;s:9:"keep_exif";i:0;}s:5:"sizes";a:1:{s:4:"full";O:8:"stdClass":5:{s:7:"percent";d:82.5;s:5:"bytes";i:14456;s:11:"size_before";i:17523;s:10:"size_after";i:3067;s:4:"time";d:0.75;}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -2761,46 +2212,17 @@
 		<wp:meta_key><![CDATA[_elementor_source_image_hash]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2338cad733a151f2308f4784444cb8854cb2da42]]></wp:meta_value>
 		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[blog01-free-imh-1.jpg]]></title>
-		<link>http://localhost/orchidea/wordpress/blog01-free-imh-1-jpg/</link>
-		<pubDate>Mon, 05 Sep 2022 16:34:50 +0000</pubDate>
-		<dc:creator><![CDATA[fulvia]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/orchidea/wordpress/wp-content/uploads/2022/09/blog01-free-imh-1.jpg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>175</wp:post_id>
-		<wp:post_date><![CDATA[2022-09-05 18:34:50]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2022-09-05 16:34:50]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-09-05 18:34:50]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-09-05 16:34:50]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[blog01-free-imh-1-jpg]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://localhost/orchidea/wordpress/wp-content/uploads/2022/09/blog01-free-imh-1.jpg]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2022/09/blog01-free-imh-1.jpg]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[wp-smush-lossy]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:500;s:6:"height";i:370;s:4:"file";s:29:"2022/09/blog01-free-imh-1.jpg";s:8:"filesize";i:55443;s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_source_image_hash]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1b587edc3999a29ffa3a2943df684f91df21e74b]]></wp:meta_value>
+		<wp:meta_key><![CDATA[wp-smpro-smush-data]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:2:{s:5:"stats";a:8:{s:7:"percent";d:9.142316139295536;s:5:"bytes";i:28390;s:11:"size_before";i:310534;s:10:"size_after";i:282144;s:4:"time";d:1.3;s:11:"api_version";s:3:"1.0";s:5:"lossy";b:1;s:9:"keep_exif";i:0;}s:5:"sizes";a:1:{s:4:"full";O:8:"stdClass":5:{s:7:"percent";d:9.14;s:5:"bytes";i:28390;s:11:"size_before";i:310534;s:10:"size_after";i:282144;s:4:"time";d:1.3;}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[blog02-free-img.jpg]]></title>
+		<title><![CDATA[orchidea, salon, bellezza, pelle, viso, capelli]]></title>
 		<link>http://localhost/orchidea/wordpress/blog02-free-img-jpg/</link>
 		<pubDate>Mon, 05 Sep 2022 16:34:50 +0000</pubDate>
 		<dc:creator><![CDATA[fulvia]]></dc:creator>
@@ -2811,8 +2233,8 @@
 		<wp:post_id>176</wp:post_id>
 		<wp:post_date><![CDATA[2022-09-05 18:34:50]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2022-09-05 16:34:50]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-09-05 18:34:50]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-09-05 16:34:50]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-09-06 19:24:17]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-09-06 17:24:17]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[blog02-free-img-jpg]]></wp:post_name>
@@ -2835,100 +2257,17 @@
 		<wp:meta_key><![CDATA[_elementor_source_image_hash]]></wp:meta_key>
 		<wp:meta_value><![CDATA[05f910909586c37decbb98e39500ee3b73544dd8]]></wp:meta_value>
 		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[image-12.jpg]]></title>
-		<link>http://localhost/orchidea/wordpress/image-12-jpg/</link>
-		<pubDate>Mon, 05 Sep 2022 16:34:50 +0000</pubDate>
-		<dc:creator><![CDATA[fulvia]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/orchidea/wordpress/wp-content/uploads/2022/09/image-12.jpg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>177</wp:post_id>
-		<wp:post_date><![CDATA[2022-09-05 18:34:50]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2022-09-05 16:34:50]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-09-05 18:34:50]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-09-05 16:34:50]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[image-12-jpg]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://localhost/orchidea/wordpress/wp-content/uploads/2022/09/image-12.jpg]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2022/09/image-12.jpg]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[wp-smush-lossy]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:500;s:6:"height";i:370;s:4:"file";s:20:"2022/09/image-12.jpg";s:8:"filesize";i:40618;s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_key><![CDATA[wp-smpro-smush-data]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:2:{s:5:"stats";a:8:{s:7:"percent";d:20.010437465964785;s:5:"bytes";i:8819;s:11:"size_before";i:44072;s:10:"size_after";i:35253;s:4:"time";d:0.16;s:11:"api_version";s:3:"1.0";s:5:"lossy";b:1;s:9:"keep_exif";i:0;}s:5:"sizes";a:1:{s:4:"full";O:8:"stdClass":5:{s:7:"percent";d:20.01;s:5:"bytes";i:8819;s:11:"size_before";i:44072;s:10:"size_after";i:35253;s:4:"time";d:0.16;}}}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_source_image_hash]]></wp:meta_key>
-		<wp:meta_value><![CDATA[f456b84864f43fb210fa7bb5eb3dc05a236005ff]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Pagina di esempio]]></title>
-		<link>http://localhost/orchidea/wordpress/?page_id=2</link>
-		<pubDate>Tue, 30 Aug 2022 15:31:28 +0000</pubDate>
-		<dc:creator><![CDATA[fulvia]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/orchidea/wordpress/?page_id=2</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:paragraph -->
-<p>Questa è una pagina di esempio. Differisce da un articolo di un blog perché rimane sempre allo stesso posto e (in molti temi) appare nel menu di navigazione. Molte persone iniziano con una pagina di Informazioni che li presentano ai visitatori del sito. Potrebbe apparire una presentazione del tipo:</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:quote -->
-<blockquote class="wp-block-quote"><p>Ciao! Sono un fattorino ciclista di giorno, aspirante attore di notte e questo è il mio sito web. Vivo a Los Angeles, ho un grande cane di nome Jack e mi piace la piña colada. (E prendere la pioggia)</p></blockquote>
-<!-- /wp:quote -->
-
-<!-- wp:paragraph -->
-<p>...o qualcosa di simile:</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:quote -->
-<blockquote class="wp-block-quote"><p>La Società XYZ Aggeggi è stata fondata nel 1971 e da allora fornisce al pubblico aggeggi di ottima qualità. Situata a Fantasilandia, XYZ impiega oltre 2.000 persone e realizza ogni sorta di aggeggio fantastico per la comunità di Fantasilandia.</p></blockquote>
-<!-- /wp:quote -->
-
-<!-- wp:paragraph -->
-<p>Come nuovo utente di WordPress, dovresti andare nella tua <a href="http://localhost/orchidea/wordpress/wp-admin/">Bacheca</a> per eliminare questa pagina, e crearne delle nuove per i tuoi contenuti. Divertiti!</p>
-<!-- /wp:paragraph -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>2</wp:post_id>
-		<wp:post_date><![CDATA[2022-08-30 17:31:28]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2022-08-30 15:31:28]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-08-30 18:11:55]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-08-30 16:11:55]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[pagina-di-esempio__trashed]]></wp:post_name>
-		<wp:status><![CDATA[trash]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[publish]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1661875915]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[pagina-di-esempio]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_wp_attachment_image_alt]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -3072,6 +2411,10 @@
 		<wp:meta_key><![CDATA[_elementor_page_assets]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[rank_math_focus_keyword]]></wp:meta_key>
+		<wp:meta_value><![CDATA[orchidea, salon, bellezza, pelle, viso, capelli]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Chi Siamo]]></title>
@@ -3175,6 +2518,10 @@
 		<wp:meta_key><![CDATA[_elementor_page_assets]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[rank_math_focus_keyword]]></wp:meta_key>
+		<wp:meta_value><![CDATA[orchidea, salon, bellezza, pelle, viso, capelli]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Servizi]]></title>
@@ -3274,6 +2621,10 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_page_assets]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[rank_math_focus_keyword]]></wp:meta_key>
+		<wp:meta_value><![CDATA[orchidea, salon, bellezza, pelle, viso, capelli]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -3388,6 +2739,10 @@
 		<wp:meta_key><![CDATA[_elementor_page_assets]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[rank_math_focus_keyword]]></wp:meta_key>
+		<wp:meta_value><![CDATA[orchidea, salon, bellezza, pelle, viso, capelli]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Cura della Pelle]]></title>
@@ -3500,6 +2855,10 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_page_assets]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[rank_math_focus_keyword]]></wp:meta_key>
+		<wp:meta_value><![CDATA[orchidea, salon, bellezza, pelle, viso, capelli, pelle]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -3614,6 +2973,10 @@
 		<wp:meta_key><![CDATA[_elementor_page_assets]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[rank_math_focus_keyword]]></wp:meta_key>
+		<wp:meta_value><![CDATA[orchidea, salon, bellezza, pelle, viso, capelli]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Pulizia del Viso]]></title>
@@ -3726,6 +3089,10 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_page_assets]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[rank_math_focus_keyword]]></wp:meta_key>
+		<wp:meta_value><![CDATA[orchidea, salon, bellezza, pelle, viso, capelli]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -3840,6 +3207,10 @@
 		<wp:meta_key><![CDATA[_elementor_page_assets]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[rank_math_focus_keyword]]></wp:meta_key>
+		<wp:meta_value><![CDATA[orchidea, salon, bellezza, pelle, viso, capelli, manicure]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Massaggi Rilassanti]]></title>
@@ -3952,6 +3323,10 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_page_assets]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[rank_math_focus_keyword]]></wp:meta_key>
+		<wp:meta_value><![CDATA[orchidea, salon, bellezza, pelle, viso, capelli, massaggi, massaggio]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -4066,6 +3441,10 @@
 		<wp:meta_key><![CDATA[_elementor_page_assets]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[rank_math_focus_keyword]]></wp:meta_key>
+		<wp:meta_value><![CDATA[orchidea, salon, bellezza, pelle, viso, capelli, maschera]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Trattamento Antietà]]></title>
@@ -4179,6 +3558,10 @@
 		<wp:meta_key><![CDATA[_elementor_page_assets]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[rank_math_focus_keyword]]></wp:meta_key>
+		<wp:meta_value><![CDATA[orchidea, salon, bellezza, pelle, viso, capelli, antietà]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Blog]]></title>
@@ -4283,113 +3666,237 @@
 		<wp:meta_key><![CDATA[_eael_widget_elements]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:1:{s:9:"post-grid";s:9:"post-grid";}]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[rank_math_focus_keyword]]></wp:meta_key>
+		<wp:meta_value><![CDATA[orchidea, salon, bellezza, pelle, viso, capelli]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[Contatti]]></title>
-		<link>http://localhost/orchidea/wordpress/contatti/</link>
-		<pubDate>Tue, 30 Aug 2022 16:20:21 +0000</pubDate>
+		<title><![CDATA[]]></title>
+		<link>http://localhost/orchidea/wordpress/2022/08/30/44/</link>
+		<pubDate>Tue, 30 Aug 2022 16:25:09 +0000</pubDate>
 		<dc:creator><![CDATA[fulvia]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/orchidea/wordpress/?page_id=36</guid>
+		<guid isPermaLink="false">http://localhost/orchidea/wordpress/?p=44</guid>
 		<description></description>
-		<content:encoded><![CDATA[<style>/*! elementor - v3.7.3 - 29-08-2022 */
-.elementor-heading-title{padding:0;margin:0;line-height:1}.elementor-widget-heading .elementor-heading-title[class*=elementor-size-]>a{color:inherit;font-size:inherit;line-height:inherit}.elementor-widget-heading .elementor-heading-title.elementor-size-small{font-size:15px}.elementor-widget-heading .elementor-heading-title.elementor-size-medium{font-size:19px}.elementor-widget-heading .elementor-heading-title.elementor-size-large{font-size:29px}.elementor-widget-heading .elementor-heading-title.elementor-size-xl{font-size:39px}.elementor-widget-heading .elementor-heading-title.elementor-size-xxl{font-size:59px}</style><h1>Contatti</h1>		
-			<style>/*! elementor - v3.7.3 - 29-08-2022 */
-.elementor-widget-divider{--divider-border-style:none;--divider-border-width:1px;--divider-color:#2c2c2c;--divider-icon-size:20px;--divider-element-spacing:10px;--divider-pattern-height:24px;--divider-pattern-size:20px;--divider-pattern-url:none;--divider-pattern-repeat:repeat-x}.elementor-widget-divider .elementor-divider{display:-webkit-box;display:-ms-flexbox;display:flex}.elementor-widget-divider .elementor-divider__text{font-size:15px;line-height:1;max-width:95%}.elementor-widget-divider .elementor-divider__element{margin:0 var(--divider-element-spacing);-ms-flex-negative:0;flex-shrink:0}.elementor-widget-divider .elementor-icon{font-size:var(--divider-icon-size)}.elementor-widget-divider .elementor-divider-separator{display:-webkit-box;display:-ms-flexbox;display:flex;margin:0;direction:ltr}.elementor-widget-divider--view-line_icon .elementor-divider-separator,.elementor-widget-divider--view-line_text .elementor-divider-separator{-webkit-box-align:center;-ms-flex-align:center;align-items:center}.elementor-widget-divider--view-line_icon .elementor-divider-separator:after,.elementor-widget-divider--view-line_icon .elementor-divider-separator:before,.elementor-widget-divider--view-line_text .elementor-divider-separator:after,.elementor-widget-divider--view-line_text .elementor-divider-separator:before{display:block;content:"";border-bottom:0;-webkit-box-flex:1;-ms-flex-positive:1;flex-grow:1;border-top:var(--divider-border-width) var(--divider-border-style) var(--divider-color)}.elementor-widget-divider--element-align-left .elementor-divider .elementor-divider-separator>.elementor-divider__svg:first-of-type{-webkit-box-flex:0;-ms-flex-positive:0;flex-grow:0;-ms-flex-negative:100;flex-shrink:100}.elementor-widget-divider--element-align-left .elementor-divider-separator:before{content:none}.elementor-widget-divider--element-align-left .elementor-divider__element{margin-left:0}.elementor-widget-divider--element-align-right .elementor-divider .elementor-divider-separator>.elementor-divider__svg:last-of-type{-webkit-box-flex:0;-ms-flex-positive:0;flex-grow:0;-ms-flex-negative:100;flex-shrink:100}.elementor-widget-divider--element-align-right .elementor-divider-separator:after{content:none}.elementor-widget-divider--element-align-right .elementor-divider__element{margin-right:0}.elementor-widget-divider:not(.elementor-widget-divider--view-line_text):not(.elementor-widget-divider--view-line_icon) .elementor-divider-separator{border-top:var(--divider-border-width) var(--divider-border-style) var(--divider-color)}.elementor-widget-divider--separator-type-pattern{--divider-border-style:none}.elementor-widget-divider--separator-type-pattern.elementor-widget-divider--view-line .elementor-divider-separator,.elementor-widget-divider--separator-type-pattern:not(.elementor-widget-divider--view-line) .elementor-divider-separator:after,.elementor-widget-divider--separator-type-pattern:not(.elementor-widget-divider--view-line) .elementor-divider-separator:before,.elementor-widget-divider--separator-type-pattern:not([class*=elementor-widget-divider--view]) .elementor-divider-separator{width:100%;min-height:var(--divider-pattern-height);-webkit-mask-size:var(--divider-pattern-size) 100%;mask-size:var(--divider-pattern-size) 100%;-webkit-mask-repeat:var(--divider-pattern-repeat);mask-repeat:var(--divider-pattern-repeat);background-color:var(--divider-color);-webkit-mask-image:var(--divider-pattern-url);mask-image:var(--divider-pattern-url)}.elementor-widget-divider--no-spacing{--divider-pattern-size:auto}.elementor-widget-divider--bg-round{--divider-pattern-repeat:round}.rtl .elementor-widget-divider .elementor-divider__text{direction:rtl}.e-container>.elementor-widget-divider{width:var(--container-widget-width,100%);--flex-grow:var(--container-widget-flex-grow,0)}</style>		
-			Modulo:		
-		[wpforms id="198" title="false"]		
-			<link rel="stylesheet" href="http://localhost/orchidea/wordpress/wp-content/plugins/elementor/assets/css/widget-icon-box.min.css">		
-				<h3>
-						Indirizzo:					
-				</h3>
-									<p>
-						Via.................					</p>
-				<h3>
-						Telefono:					
-				</h3>
-									<p>
-						+39 .........					</p>
-				<h3>
-						E-mail:					
-				</h3>
-									<p>
-						Via.................					</p>
-			<style>/*! elementor - v3.7.3 - 29-08-2022 */
-.elementor-widget-google_maps .elementor-widget-container{overflow:hidden}.elementor-widget-google_maps iframe{height:300px}</style>		
-			<iframe frameborder="0" scrolling="no" marginheight="0" marginwidth="0"
-					src="https://maps.google.com/maps?q=Verona&#038;t=m&#038;z=12&#038;output=embed&#038;iwloc=near"
-					title="Verona"
-					aria-label="Verona"
-			></iframe>]]></content:encoded>
+		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>36</wp:post_id>
-		<wp:post_date><![CDATA[2022-08-30 18:20:21]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2022-08-30 16:20:21]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-09-06 15:13:02]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-09-06 13:13:02]]></wp:post_modified_gmt>
+		<wp:post_id>44</wp:post_id>
+		<wp:post_date><![CDATA[2022-08-30 18:25:09]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-08-30 16:25:09]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-08-30 18:25:09]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-08-30 16:25:09]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[contatti]]></wp:post_name>
+		<wp:post_name><![CDATA[44]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_parent>16</wp:post_parent>
+		<wp:menu_order>5</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_edit_mode]]></wp:meta_key>
-		<wp:meta_value><![CDATA[builder]]></wp:meta_value>
+										<category domain="nav_menu" nicename="menu-testata"><![CDATA[menu testata]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_template_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[wp-page]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[42]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_version]]></wp:meta_key>
-		<wp:meta_value><![CDATA[3.7.3]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[22]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_astra_content_layout_flag]]></wp:meta_key>
-		<wp:meta_value><![CDATA[disabled]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[page]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[site-post-title]]></wp:meta_key>
-		<wp:meta_value><![CDATA[disabled]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[ast-title-bar-display]]></wp:meta_key>
-		<wp:meta_value><![CDATA[disabled]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[ast-featured-img]]></wp:meta_key>
-		<wp:meta_value><![CDATA[disabled]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[site-content-layout]]></wp:meta_key>
-		<wp:meta_value><![CDATA[page-builder]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[site-sidebar-layout]]></wp:meta_key>
-		<wp:meta_value><![CDATA[no-sidebar]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_eael_custom_js]]></wp:meta_key>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_page_settings]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{s:18:"eael_ext_toc_title";s:17:"Table of Contents";}]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_data]]></wp:meta_key>
-		<wp:meta_value><![CDATA[[{"id":"400d090","elType":"section","settings":{"height":"min-height","custom_height":{"unit":"px","size":200,"sizes":[]},"background_background":"classic","background_image":{"url":"http:\/\/localhost\/orchidea\/wordpress\/wp-content\/uploads\/2022\/09\/orchid-orchid-flower-bamboo-2115260.jpg","id":131,"alt":"orchid, orchid flower, bamboo-2115260.jpg","source":"library"},"background_position":"center center","background_repeat":"no-repeat","background_overlay_background":"gradient","background_overlay_color":"#CE1E1E","background_overlay_color_b":"#000000","background_overlay_gradient_angle":{"unit":"deg","size":220,"sizes":[]}},"elements":[{"id":"d9656cc","elType":"column","settings":{"_column_size":100,"_inline_size":null},"elements":[{"id":"52ad73f","elType":"widget","settings":{"title":"Contatti","header_size":"h1","align":"center","title_color":"#FFFFFF","typography_typography":"custom","typography_font_family":"Droid Arabic Kufi","typography_font_size":{"unit":"px","size":30,"sizes":[]},"typography_font_weight":"600"},"elements":[],"widgetType":"heading"},{"id":"eedf673","elType":"widget","settings":{"width":{"unit":"%","size":5,"sizes":[]},"align":"center","text":"Divisore","color":"#FFFFFF","weight":{"unit":"px","size":2,"sizes":[]}},"elements":[],"widgetType":"divider"}],"isInner":false}],"isInner":false},{"id":"bc5a3b6","elType":"section","settings":{"gap":"wider","structure":"20","margin":{"unit":"px","top":"40","right":0,"bottom":"0","left":0,"isLinked":false}},"elements":[{"id":"e347e5f","elType":"column","settings":{"_column_size":50,"_inline_size":null},"elements":[{"id":"2b600e9","elType":"widget","settings":{"title":"Modulo:","header_size":"div","title_color":"#000000","typography_typography":"custom","typography_font_family":"Roboto","typography_font_size":{"unit":"px","size":30,"sizes":[]},"typography_font_weight":"600"},"elements":[],"widgetType":"heading"},{"id":"ecfe98b","elType":"widget","settings":{"shortcode":"[wpforms id=\"198\" title=\"false\"]"},"elements":[],"widgetType":"shortcode"}],"isInner":false},{"id":"551a5fd","elType":"column","settings":{"_column_size":50,"_inline_size":null},"elements":[{"id":"264b5ac","elType":"widget","settings":{"selected_icon":{"value":"","library":""},"title_text":"Indirizzo:","description_text":"Via.................","position":"left","text_align":"left","title_color":"#000000"},"elements":[],"widgetType":"icon-box"},{"id":"b0fd900","elType":"widget","settings":{"selected_icon":{"value":"","library":""},"title_text":"Telefono:","description_text":"+39 .........","position":"left","text_align":"left","title_color":"#000000","_margin":{"unit":"px","top":"20","right":"0","bottom":"20","left":"0","isLinked":false}},"elements":[],"widgetType":"icon-box"},{"id":"044b644","elType":"widget","settings":{"selected_icon":{"value":"","library":""},"title_text":"E-mail:","description_text":"Via.................","position":"left","text_align":"left","title_color":"#000000"},"elements":[],"widgetType":"icon-box"}],"isInner":false}],"isInner":false},{"id":"2b953e0","elType":"section","settings":{"layout":"full_width"},"elements":[{"id":"963e9d2","elType":"column","settings":{"_column_size":100,"_inline_size":null,"padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[{"id":"6dfe063","elType":"widget","settings":{"address":"Verona","zoom":{"unit":"px","size":12,"sizes":[]},"height":{"unit":"px","size":480,"sizes":[]}},"elements":[],"widgetType":"google_maps"}],"isInner":false}],"isInner":false}]]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[]]></title>
+		<link>http://localhost/orchidea/wordpress/2022/08/30/45/</link>
+		<pubDate>Tue, 30 Aug 2022 16:25:09 +0000</pubDate>
+		<dc:creator><![CDATA[fulvia]]></dc:creator>
+		<guid isPermaLink="false">http://localhost/orchidea/wordpress/?p=45</guid>
+		<description></description>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>45</wp:post_id>
+		<wp:post_date><![CDATA[2022-08-30 18:25:09]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-08-30 16:25:09]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-08-30 18:25:09]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-08-30 16:25:09]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[45]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>16</wp:post_parent>
+		<wp:menu_order>6</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="menu-testata"><![CDATA[menu testata]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_page_assets]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[42]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[26]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[page]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[]]></title>
+		<link>http://localhost/orchidea/wordpress/2022/08/30/46/</link>
+		<pubDate>Tue, 30 Aug 2022 16:25:09 +0000</pubDate>
+		<dc:creator><![CDATA[fulvia]]></dc:creator>
+		<guid isPermaLink="false">http://localhost/orchidea/wordpress/?p=46</guid>
+		<description></description>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>46</wp:post_id>
+		<wp:post_date><![CDATA[2022-08-30 18:25:09]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-08-30 16:25:09]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-08-30 18:25:09]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-08-30 16:25:09]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[46]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>16</wp:post_parent>
+		<wp:menu_order>7</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="menu-testata"><![CDATA[menu testata]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[42]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[30]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[page]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[]]></title>
+		<link>http://localhost/orchidea/wordpress/2022/08/30/47/</link>
+		<pubDate>Tue, 30 Aug 2022 16:25:09 +0000</pubDate>
+		<dc:creator><![CDATA[fulvia]]></dc:creator>
+		<guid isPermaLink="false">http://localhost/orchidea/wordpress/?p=47</guid>
+		<description></description>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>47</wp:post_id>
+		<wp:post_date><![CDATA[2022-08-30 18:25:09]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-08-30 16:25:09]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-08-30 18:25:09]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-08-30 16:25:09]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[47]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>16</wp:post_parent>
+		<wp:menu_order>8</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="menu-testata"><![CDATA[menu testata]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[42]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[28]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[page]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -4564,6 +4071,260 @@
 		</wp:postmeta>
 							</item>
 					<item>
+		<title><![CDATA[Ciao mondo!]]></title>
+		<link>http://localhost/orchidea/wordpress/?p=1</link>
+		<pubDate>Tue, 30 Aug 2022 15:31:28 +0000</pubDate>
+		<dc:creator><![CDATA[fulvia]]></dc:creator>
+		<guid isPermaLink="false">http://localhost/orchidea/wordpress/?p=1</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>Ti diamo il benvenuto in WordPress. Questo è il tuo primo articolo. Modificalo o eliminalo e quindi inizia a scrivere!</p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>1</wp:post_id>
+		<wp:post_date><![CDATA[2022-08-30 17:31:28]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-08-30 15:31:28]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-09-05 19:08:26]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-09-05 17:08:26]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[ciao-mondo__trashed]]></wp:post_name>
+		<wp:status><![CDATA[trash]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="category" nicename="senza-categoria"><![CDATA[Senza categoria]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
+		<wp:meta_value><![CDATA[publish]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1662397706]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[ciao-mondo]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_trash_meta_comments_status]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:1;s:1:"1";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:comment>
+			<wp:comment_id>1</wp:comment_id>
+			<wp:comment_author><![CDATA[Un commentatore di WordPress]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[wapuu@wordpress.example]]></wp:comment_author_email>
+			<wp:comment_author_url>https://it.wordpress.org/</wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2022-08-30 17:31:28]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2022-08-30 15:31:28]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[Ciao, questo è un commento.
+Per iniziare a moderare, modificare ed eliminare commenti, vai alla schermata dei commenti nella bacheca.
+Gli avatar di chi lascia un commento sono forniti da <a href="https://it.gravatar.com/">Gravatar</a>.]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[post-trashed]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+							</wp:comment>
+					</item>
+					<item>
+		<title><![CDATA[Pagina di esempio]]></title>
+		<link>http://localhost/orchidea/wordpress/?page_id=2</link>
+		<pubDate>Tue, 30 Aug 2022 15:31:28 +0000</pubDate>
+		<dc:creator><![CDATA[fulvia]]></dc:creator>
+		<guid isPermaLink="false">http://localhost/orchidea/wordpress/?page_id=2</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>Questa è una pagina di esempio. Differisce da un articolo di un blog perché rimane sempre allo stesso posto e (in molti temi) appare nel menu di navigazione. Molte persone iniziano con una pagina di Informazioni che li presentano ai visitatori del sito. Potrebbe apparire una presentazione del tipo:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:quote -->
+<blockquote class="wp-block-quote"><p>Ciao! Sono un fattorino ciclista di giorno, aspirante attore di notte e questo è il mio sito web. Vivo a Los Angeles, ho un grande cane di nome Jack e mi piace la piña colada. (E prendere la pioggia)</p></blockquote>
+<!-- /wp:quote -->
+
+<!-- wp:paragraph -->
+<p>...o qualcosa di simile:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:quote -->
+<blockquote class="wp-block-quote"><p>La Società XYZ Aggeggi è stata fondata nel 1971 e da allora fornisce al pubblico aggeggi di ottima qualità. Situata a Fantasilandia, XYZ impiega oltre 2.000 persone e realizza ogni sorta di aggeggio fantastico per la comunità di Fantasilandia.</p></blockquote>
+<!-- /wp:quote -->
+
+<!-- wp:paragraph -->
+<p>Come nuovo utente di WordPress, dovresti andare nella tua <a href="http://localhost/orchidea/wordpress/wp-admin/">Bacheca</a> per eliminare questa pagina, e crearne delle nuove per i tuoi contenuti. Divertiti!</p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>2</wp:post_id>
+		<wp:post_date><![CDATA[2022-08-30 17:31:28]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-08-30 15:31:28]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-08-30 18:11:55]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-08-30 16:11:55]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[pagina-di-esempio__trashed]]></wp:post_name>
+		<wp:status><![CDATA[trash]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
+		<wp:meta_value><![CDATA[publish]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1661875915]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[pagina-di-esempio]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Custom Styles]]></title>
+		<link>http://localhost/orchidea/wordpress/2022/08/30/wp-global-styles-astra/</link>
+		<pubDate>Tue, 30 Aug 2022 16:12:06 +0000</pubDate>
+		<dc:creator><![CDATA[fulvia]]></dc:creator>
+		<guid isPermaLink="false">http://localhost/orchidea/wordpress/2022/08/30/wp-global-styles-astra/</guid>
+		<description></description>
+		<content:encoded><![CDATA[{"version": 2, "isGlobalStylesUserThemeJSON": true }]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>12</wp:post_id>
+		<wp:post_date><![CDATA[2022-08-30 18:12:06]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-08-30 16:12:06]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-08-30 18:12:06]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-08-30 16:12:06]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[wp-global-styles-astra]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[wp_global_styles]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="wp_theme" nicename="astra"><![CDATA[astra]]></category>
+						</item>
+					<item>
+		<title><![CDATA[Contatti]]></title>
+		<link>http://localhost/orchidea/wordpress/contatti/</link>
+		<pubDate>Tue, 30 Aug 2022 16:20:21 +0000</pubDate>
+		<dc:creator><![CDATA[fulvia]]></dc:creator>
+		<guid isPermaLink="false">http://localhost/orchidea/wordpress/?page_id=36</guid>
+		<description></description>
+		<content:encoded><![CDATA[<style>/*! elementor - v3.7.3 - 29-08-2022 */
+.elementor-heading-title{padding:0;margin:0;line-height:1}.elementor-widget-heading .elementor-heading-title[class*=elementor-size-]>a{color:inherit;font-size:inherit;line-height:inherit}.elementor-widget-heading .elementor-heading-title.elementor-size-small{font-size:15px}.elementor-widget-heading .elementor-heading-title.elementor-size-medium{font-size:19px}.elementor-widget-heading .elementor-heading-title.elementor-size-large{font-size:29px}.elementor-widget-heading .elementor-heading-title.elementor-size-xl{font-size:39px}.elementor-widget-heading .elementor-heading-title.elementor-size-xxl{font-size:59px}</style><h1>Contatti</h1>		
+			<style>/*! elementor - v3.7.3 - 29-08-2022 */
+.elementor-widget-divider{--divider-border-style:none;--divider-border-width:1px;--divider-color:#2c2c2c;--divider-icon-size:20px;--divider-element-spacing:10px;--divider-pattern-height:24px;--divider-pattern-size:20px;--divider-pattern-url:none;--divider-pattern-repeat:repeat-x}.elementor-widget-divider .elementor-divider{display:-webkit-box;display:-ms-flexbox;display:flex}.elementor-widget-divider .elementor-divider__text{font-size:15px;line-height:1;max-width:95%}.elementor-widget-divider .elementor-divider__element{margin:0 var(--divider-element-spacing);-ms-flex-negative:0;flex-shrink:0}.elementor-widget-divider .elementor-icon{font-size:var(--divider-icon-size)}.elementor-widget-divider .elementor-divider-separator{display:-webkit-box;display:-ms-flexbox;display:flex;margin:0;direction:ltr}.elementor-widget-divider--view-line_icon .elementor-divider-separator,.elementor-widget-divider--view-line_text .elementor-divider-separator{-webkit-box-align:center;-ms-flex-align:center;align-items:center}.elementor-widget-divider--view-line_icon .elementor-divider-separator:after,.elementor-widget-divider--view-line_icon .elementor-divider-separator:before,.elementor-widget-divider--view-line_text .elementor-divider-separator:after,.elementor-widget-divider--view-line_text .elementor-divider-separator:before{display:block;content:"";border-bottom:0;-webkit-box-flex:1;-ms-flex-positive:1;flex-grow:1;border-top:var(--divider-border-width) var(--divider-border-style) var(--divider-color)}.elementor-widget-divider--element-align-left .elementor-divider .elementor-divider-separator>.elementor-divider__svg:first-of-type{-webkit-box-flex:0;-ms-flex-positive:0;flex-grow:0;-ms-flex-negative:100;flex-shrink:100}.elementor-widget-divider--element-align-left .elementor-divider-separator:before{content:none}.elementor-widget-divider--element-align-left .elementor-divider__element{margin-left:0}.elementor-widget-divider--element-align-right .elementor-divider .elementor-divider-separator>.elementor-divider__svg:last-of-type{-webkit-box-flex:0;-ms-flex-positive:0;flex-grow:0;-ms-flex-negative:100;flex-shrink:100}.elementor-widget-divider--element-align-right .elementor-divider-separator:after{content:none}.elementor-widget-divider--element-align-right .elementor-divider__element{margin-right:0}.elementor-widget-divider:not(.elementor-widget-divider--view-line_text):not(.elementor-widget-divider--view-line_icon) .elementor-divider-separator{border-top:var(--divider-border-width) var(--divider-border-style) var(--divider-color)}.elementor-widget-divider--separator-type-pattern{--divider-border-style:none}.elementor-widget-divider--separator-type-pattern.elementor-widget-divider--view-line .elementor-divider-separator,.elementor-widget-divider--separator-type-pattern:not(.elementor-widget-divider--view-line) .elementor-divider-separator:after,.elementor-widget-divider--separator-type-pattern:not(.elementor-widget-divider--view-line) .elementor-divider-separator:before,.elementor-widget-divider--separator-type-pattern:not([class*=elementor-widget-divider--view]) .elementor-divider-separator{width:100%;min-height:var(--divider-pattern-height);-webkit-mask-size:var(--divider-pattern-size) 100%;mask-size:var(--divider-pattern-size) 100%;-webkit-mask-repeat:var(--divider-pattern-repeat);mask-repeat:var(--divider-pattern-repeat);background-color:var(--divider-color);-webkit-mask-image:var(--divider-pattern-url);mask-image:var(--divider-pattern-url)}.elementor-widget-divider--no-spacing{--divider-pattern-size:auto}.elementor-widget-divider--bg-round{--divider-pattern-repeat:round}.rtl .elementor-widget-divider .elementor-divider__text{direction:rtl}.e-container>.elementor-widget-divider{width:var(--container-widget-width,100%);--flex-grow:var(--container-widget-flex-grow,0)}</style>		
+			Modulo:		
+		[wpforms id="198" title="false"]		
+			<link rel="stylesheet" href="http://localhost/orchidea/wordpress/wp-content/plugins/elementor/assets/css/widget-icon-box.min.css">		
+				<h3>
+						Indirizzo:					
+				</h3>
+									<p>
+						Via.................					</p>
+				<h3>
+						Telefono:					
+				</h3>
+									<p>
+						+39 .........					</p>
+				<h3>
+						E-mail:					
+				</h3>
+									<p>
+						Via.................					</p>
+			<style>/*! elementor - v3.7.3 - 29-08-2022 */
+.elementor-widget-google_maps .elementor-widget-container{overflow:hidden}.elementor-widget-google_maps iframe{height:300px}</style>		
+			<iframe frameborder="0" scrolling="no" marginheight="0" marginwidth="0"
+					src="https://maps.google.com/maps?q=Verona&#038;t=m&#038;z=12&#038;output=embed&#038;iwloc=near"
+					title="Verona"
+					aria-label="Verona"
+			></iframe>]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>36</wp:post_id>
+		<wp:post_date><![CDATA[2022-08-30 18:20:21]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-08-30 16:20:21]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-09-06 15:13:02]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-09-06 13:13:02]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[contatti]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_elementor_edit_mode]]></wp:meta_key>
+		<wp:meta_value><![CDATA[builder]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_elementor_template_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[wp-page]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_elementor_version]]></wp:meta_key>
+		<wp:meta_value><![CDATA[3.7.3]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_astra_content_layout_flag]]></wp:meta_key>
+		<wp:meta_value><![CDATA[disabled]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[site-post-title]]></wp:meta_key>
+		<wp:meta_value><![CDATA[disabled]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[ast-title-bar-display]]></wp:meta_key>
+		<wp:meta_value><![CDATA[disabled]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[ast-featured-img]]></wp:meta_key>
+		<wp:meta_value><![CDATA[disabled]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[site-content-layout]]></wp:meta_key>
+		<wp:meta_value><![CDATA[page-builder]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[site-sidebar-layout]]></wp:meta_key>
+		<wp:meta_value><![CDATA[no-sidebar]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_eael_custom_js]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_elementor_page_settings]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{s:18:"eael_ext_toc_title";s:17:"Table of Contents";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_elementor_data]]></wp:meta_key>
+		<wp:meta_value><![CDATA[[{"id":"400d090","elType":"section","settings":{"height":"min-height","custom_height":{"unit":"px","size":200,"sizes":[]},"background_background":"classic","background_image":{"url":"http:\/\/localhost\/orchidea\/wordpress\/wp-content\/uploads\/2022\/09\/orchid-orchid-flower-bamboo-2115260.jpg","id":131,"alt":"orchid, orchid flower, bamboo-2115260.jpg","source":"library"},"background_position":"center center","background_repeat":"no-repeat","background_overlay_background":"gradient","background_overlay_color":"#CE1E1E","background_overlay_color_b":"#000000","background_overlay_gradient_angle":{"unit":"deg","size":220,"sizes":[]}},"elements":[{"id":"d9656cc","elType":"column","settings":{"_column_size":100,"_inline_size":null},"elements":[{"id":"52ad73f","elType":"widget","settings":{"title":"Contatti","header_size":"h1","align":"center","title_color":"#FFFFFF","typography_typography":"custom","typography_font_family":"Droid Arabic Kufi","typography_font_size":{"unit":"px","size":30,"sizes":[]},"typography_font_weight":"600"},"elements":[],"widgetType":"heading"},{"id":"eedf673","elType":"widget","settings":{"width":{"unit":"%","size":5,"sizes":[]},"align":"center","text":"Divisore","color":"#FFFFFF","weight":{"unit":"px","size":2,"sizes":[]}},"elements":[],"widgetType":"divider"}],"isInner":false}],"isInner":false},{"id":"bc5a3b6","elType":"section","settings":{"gap":"wider","structure":"20","margin":{"unit":"px","top":"40","right":0,"bottom":"0","left":0,"isLinked":false}},"elements":[{"id":"e347e5f","elType":"column","settings":{"_column_size":50,"_inline_size":null},"elements":[{"id":"2b600e9","elType":"widget","settings":{"title":"Modulo:","header_size":"div","title_color":"#000000","typography_typography":"custom","typography_font_family":"Roboto","typography_font_size":{"unit":"px","size":30,"sizes":[]},"typography_font_weight":"600"},"elements":[],"widgetType":"heading"},{"id":"ecfe98b","elType":"widget","settings":{"shortcode":"[wpforms id=\"198\" title=\"false\"]"},"elements":[],"widgetType":"shortcode"}],"isInner":false},{"id":"551a5fd","elType":"column","settings":{"_column_size":50,"_inline_size":null},"elements":[{"id":"264b5ac","elType":"widget","settings":{"selected_icon":{"value":"","library":""},"title_text":"Indirizzo:","description_text":"Via.................","position":"left","text_align":"left","title_color":"#000000"},"elements":[],"widgetType":"icon-box"},{"id":"b0fd900","elType":"widget","settings":{"selected_icon":{"value":"","library":""},"title_text":"Telefono:","description_text":"+39 .........","position":"left","text_align":"left","title_color":"#000000","_margin":{"unit":"px","top":"20","right":"0","bottom":"20","left":"0","isLinked":false}},"elements":[],"widgetType":"icon-box"},{"id":"044b644","elType":"widget","settings":{"selected_icon":{"value":"","library":""},"title_text":"E-mail:","description_text":"Via.................","position":"left","text_align":"left","title_color":"#000000"},"elements":[],"widgetType":"icon-box"}],"isInner":false}],"isInner":false},{"id":"2b953e0","elType":"section","settings":{"layout":"full_width"},"elements":[{"id":"963e9d2","elType":"column","settings":{"_column_size":100,"_inline_size":null,"padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[{"id":"6dfe063","elType":"widget","settings":{"address":"Verona","zoom":{"unit":"px","size":12,"sizes":[]},"height":{"unit":"px","size":480,"sizes":[]}},"elements":[],"widgetType":"google_maps"}],"isInner":false}],"isInner":false}]]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_elementor_page_assets]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[rank_math_focus_keyword]]></wp:meta_key>
+		<wp:meta_value><![CDATA[orchidea, salon, bellezza, pelle, viso, capelli, contatti]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
 		<title><![CDATA[Importanza dell'alimentazione]]></title>
 		<link>http://localhost/orchidea/wordpress/2022/09/05/analisis-septe-pestel-para-un-salon-de-belleza/</link>
 		<pubDate>Mon, 05 Sep 2022 16:50:28 +0000</pubDate>
@@ -4705,90 +4466,6 @@
 		<wp:meta_value><![CDATA[171]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
-					<item>
-		<title><![CDATA[Ciao mondo!]]></title>
-		<link>http://localhost/orchidea/wordpress/?p=1</link>
-		<pubDate>Tue, 30 Aug 2022 15:31:28 +0000</pubDate>
-		<dc:creator><![CDATA[fulvia]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/orchidea/wordpress/?p=1</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:paragraph -->
-<p>Ti diamo il benvenuto in WordPress. Questo è il tuo primo articolo. Modificalo o eliminalo e quindi inizia a scrivere!</p>
-<!-- /wp:paragraph -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>1</wp:post_id>
-		<wp:post_date><![CDATA[2022-08-30 17:31:28]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2022-08-30 15:31:28]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-09-05 19:08:26]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-09-05 17:08:26]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[ciao-mondo__trashed]]></wp:post_name>
-		<wp:status><![CDATA[trash]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="senza-categoria"><![CDATA[Senza categoria]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[publish]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1662397706]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[ciao-mondo]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_comments_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:1;s:1:"1";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:comment>
-			<wp:comment_id>1</wp:comment_id>
-			<wp:comment_author><![CDATA[Un commentatore di WordPress]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[wapuu@wordpress.example]]></wp:comment_author_email>
-			<wp:comment_author_url>https://it.wordpress.org/</wp:comment_author_url>
-			<wp:comment_author_IP><![CDATA[]]></wp:comment_author_IP>
-			<wp:comment_date><![CDATA[2022-08-30 17:31:28]]></wp:comment_date>
-			<wp:comment_date_gmt><![CDATA[2022-08-30 15:31:28]]></wp:comment_date_gmt>
-			<wp:comment_content><![CDATA[Ciao, questo è un commento.
-Per iniziare a moderare, modificare ed eliminare commenti, vai alla schermata dei commenti nella bacheca.
-Gli avatar di chi lascia un commento sono forniti da <a href="https://it.gravatar.com/">Gravatar</a>.]]></wp:comment_content>
-			<wp:comment_approved><![CDATA[post-trashed]]></wp:comment_approved>
-			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
-			<wp:comment_parent>0</wp:comment_parent>
-			<wp:comment_user_id>0</wp:comment_user_id>
-							</wp:comment>
-					</item>
-					<item>
-		<title><![CDATA[Custom Styles]]></title>
-		<link>http://localhost/orchidea/wordpress/2022/08/30/wp-global-styles-astra/</link>
-		<pubDate>Tue, 30 Aug 2022 16:12:06 +0000</pubDate>
-		<dc:creator><![CDATA[fulvia]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/orchidea/wordpress/2022/08/30/wp-global-styles-astra/</guid>
-		<description></description>
-		<content:encoded><![CDATA[{"version": 2, "isGlobalStylesUserThemeJSON": true }]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>12</wp:post_id>
-		<wp:post_date><![CDATA[2022-08-30 18:12:06]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2022-08-30 16:12:06]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-08-30 18:12:06]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-08-30 16:12:06]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[wp-global-styles-astra]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[wp_global_styles]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="wp_theme" nicename="astra"><![CDATA[astra]]></category>
-						</item>
 					<item>
 		<title><![CDATA[Aprire un Salone di Bellezza]]></title>
 		<link>http://localhost/orchidea/wordpress/2022/09/05/como-abrir-un-salon-de-belleza/</link>
